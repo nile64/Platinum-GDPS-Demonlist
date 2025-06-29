@@ -1,0 +1,26 @@
+{
+    "id": 2378,
+    "name": "Aleph19",
+    "description": "An all-rounded level that glitches and distorts around you.",
+    "gdleveldescription": "alephnull demake lmao",
+    "author": "NotAModerator",
+    "creators": ["NotAModerator"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/4qgsQiUzXVE",
+    "showcase": "https://youtu.be/4qgsQiUzXVE",
+    "percentToQualify": 72,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=j4lCXFLMrl6qjzbH&t=1098",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/BSB5cAogEwk",
+          "percent": 100,
+          "hz": 120
+      },
+    ]
+}
