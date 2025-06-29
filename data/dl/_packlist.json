@@ -1,7 +1,52 @@
 [
     {
-        "name": "Pack Template",
-        "levels": ["levelTemplate"],
-        "colour": "linear-gradient(to right, #f93939, #f97639)"
+        "name": "Former Top 1 Pack",
+        "levels": ["Chroma Machine", "Restricted Sector", "Theory of Fright"],
+        "colour": "linear-gradient(to right, #f4d002, #f49702)"
+    },
+    {
+        "name": "Hellish Pack",
+        "levels": ["Massacre", "The Purgatory", "The Hell Tunnel"],
+        "colour": "linear-gradient(to right, #f24741, #f7140c)"
+    },
+    {
+        "name": "Romanian Pack",
+        "levels": ["Theory of Fright", "Amity"],
+        "colour": "linear-gradient(to right, #002b7f, #002b7f, #fcd116, #fcd116, #ce1126, #ce1126)"
+    },
+    {
+        "name": "3-Letter Pack",
+        "levels": ["P3T", "doa", "937"],
+        "colour": "linear-gradient(to right, #919191, #6d6d6d)"
+    },
+    {
+        "name": "Decade Long Level Pack",
+        "levels": ["Emerging Hollows", "Ultimate PTDemon Mix", "Eon19"],
+        "colour": "linear-gradient(to right, #b882ff, #8c4ae2)"
+    },
+    {
+        "name": "SCREAMING PACK!!",
+        "levels": ["GLISTEN19", "MOST RACIST LEVEL OF ALL TIME IN THE HISTORY OF GEOMETRY DASH PRIVATE SERVERS", "ALL OF WHAT I HAD"],
+        "colour": "linear-gradient(to right, #c44444, #aa2020)"
+    },
+    {
+        "name": "Unc Pack",
+        "levels": ["unc life", "uncMare"],
+        "colour": "linear-gradient(to right, #baa953, #a39032)"
+    },
+    {
+        "name": "Ancient Level Pack",
+        "levels": ["Gray Grey", "Empathy", "Eon19"],
+        "colour": "linear-gradient(to right, #8e8e8e, #606060)"
+    },
+    {
+        "name": "Text Limit Bypass Pack",
+        "levels": ["i have the better minecraft level gp0", "MOST RACIST LEVEL OF ALL TIME IN THE HISTORY OF GEOMETRY DASH PRIVATE SERVERS", "Samsung Crystal UHD CU7172 43 Inch TV UE43CU7172UXXH 2023 Model PurColor Crystal Processor 4K Motion Xcelerator Smart TV 2023"],
+        "colour": "linear-gradient(to right, #81af77, #518447)"
+    },
+    {
+        "name": "\"Easy\" Pack",
+        "levels": ["Easy", "Brainwaves"],
+        "colour": "linear-gradient(to right, #2b93d8, #1167a0)"
     }
 ]
