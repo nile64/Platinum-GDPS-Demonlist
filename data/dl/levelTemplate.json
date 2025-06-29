@@ -1,0 +1,21 @@
+{
+    "id": 123,
+    "name": "Level Name",
+    "description": "level description decided by devs, can also be used to show opinions of list mods before its placed. descriptions arent required.",
+    "gdleveldescription": "description of the level in the ps",
+    "author": "publisher",
+    "creators": ["creator1", "creator2"],
+    "verifier": "verifier",
+    "verification": "https://www.youtube.com/watch?v=vIVOxAwzugs",
+    "showcase": "https://www.youtube.com/watch?v=As3TFoWI0xY",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "record holder",
+          "link": "https://www.youtube.com/watch?v=vIVOxAwzugs",
+          "percent": 100,
+          "hz": 360
+      }
+    ]
+}
+

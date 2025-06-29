@@ -1,0 +1,21 @@
+{
+    "id": 2319,
+    "name": "O0o",
+    "description": "",
+    "gdleveldescription": "",
+    "author": "Tusol",
+    "creators": ["Tusol"],
+    "verifier": "kas.ia",
+    "verification": "https://youtu.be/jFaxWaoPo5I?si=ZdKcP2l66R3bCD2F",
+    "showcase": "https://youtu.be/jFaxWaoPo5I?si=ZdKcP2l66R3bCD2F",
+    "percentToQualify": 73,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/-5pq2-OIfDU?si=DFzpkAo9VAKeOt0g",
+          "percent": 100,
+          "hz": 360
+      }
+    ]
+}
+

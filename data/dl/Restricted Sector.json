@@ -1,0 +1,33 @@
+{
+    "id": 1405,
+    "name": "Restricted Sector",
+    "description": "",
+    "gdleveldescription": "",
+    "author": "ZorpikGMD",
+    "creators": ["ZorpikGMD"],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=GrGQShjn3OM",
+    "showcase": "https://www.youtube.com/watch?v=GrGQShjn3OM",
+    "percentToQualify": 70,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=HpevpAZz7Mg",
+          "percent": 100,
+          "hz": 360
+      },
+      {
+          "user": "Pololak",
+          "link": "https://www.youtube.com/watch?v=vKZ1VNF-RNI",
+          "percent": 100,
+          "hz": 360
+      },
+      {
+          "user": "kas.ia",
+          "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
+          "percent": 100,
+          "hz": 360
+      }
+    ]
+}
+
