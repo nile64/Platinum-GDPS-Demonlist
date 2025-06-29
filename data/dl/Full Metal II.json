@@ -1,0 +1,50 @@
+{
+    "id": 1631,
+    "name": "Full Metal II",
+    "description": "A classic 1.9 styled, very energetic demon.",
+    "gdleveldescription": "Its finally out! The sequel to Full Metal by Me and Kek",
+    "author": "SpectricElectric",
+    "creators": ["SpectricElectric"],
+    "verifier": "SpectricElectric",
+    "verification": "https://www.youtube.com/watch?v=Xy4E2SzJMfI",
+    "showcase": "https://www.youtube.com/watch?v=Xy4E2SzJMfI",
+    "percentToQualify": 60,
+    "records": [
+      {
+          "user": "Svord",
+          "link": "https://www.youtube.com/watch?v=DVxID81K5Sc",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=GWkIhg7n45k",
+          "percent": 100,
+          "hz": 360
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/NsqgCojDOiY?si=hGA9pWCZrLii99FT&t=768",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=sKXPr2C6NTA",
+          "percent": 100,
+          "hz": 360
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=1otiZ78joZ0&t=394s",
+          "percent": 100,
+          "hz": 
+      },
+      {
+          "user": "Thomasg31d",
+          "link": "https://www.youtube.com/watch?v=GZ0HqeHAtYc",
+          "percent": 100,
+          "hz": 120
+      }
+    ]
+}
