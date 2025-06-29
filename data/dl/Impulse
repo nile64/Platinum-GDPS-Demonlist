@@ -1,0 +1,20 @@
+{
+    "id": 2504,
+    "name": "Impulse",
+    "description": "A dynamic, vibrant, and fast-paced demon where no two parts look the same.",
+    "gdleveldescription": "My first solo level on the Platinum GDPS! now hurry and beat this for some stars HURRY QUICK HURRY",
+    "author": "jump for fun",
+    "creators": ["jump for fun"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/6dHAgJIyBD0",
+    "showcase": "https://youtu.be/6dHAgJIyBD0",
+    "percentToQualify": 71,
+    "records": [
+      {
+          "user": "wearensfw",
+          "link": "https://www.youtube.com/watch?v=npNQwVbiQik",
+          "percent": 100,
+          "hz": 360
+      },
+    ]
+}
