@@ -1,0 +1,25 @@
+{
+    "id": 1770,
+    "name": "MASSACRE",
+    "description": "bro is not zobros",
+    "gdleveldescription": "Easy",
+    "author": "Augury",
+    "creators": ["Augury"],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=V15XGydBDw0",
+    "showcase": "https://www.youtube.com/watch?v=V15XGydBDw0",
+    "percentToQualify": 73,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=Nc3qYdx4EL4",
+          "percent": 100
+      },
+      {
+          "user": "kas.ia",
+          "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
+          "percent": 100
+      }
+    ]
+}
+

@@ -1,0 +1,24 @@
+{
+    "id": 1699,
+    "name": "GLISTEN19",
+    "description": "i wonder what this is a remake of",
+    "gdleveldescription": "Collab between Me and Zudd, 1.9 remake of GLISTEN that was started months ago and only now just finished (Zudd got a bit lazy",
+    "author": "Raezori",
+    "creators": ["Raezori", "zudd"],
+    "verifier": "Raezori",
+    "verification": "https://www.youtube.com/watch?v=ugRGnzF4k88",
+    "showcase": "https://www.youtube.com/watch?v=ugRGnzF4k88",
+    "percentToQualify": 72,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=X1fDvrhKE8c",
+          "percent": 100
+      },
+      {
+          "user": "kas.ia",
+          "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
+          "percent": 100
+      }
+    ]
+}

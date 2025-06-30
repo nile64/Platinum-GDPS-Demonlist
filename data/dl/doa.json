@@ -1,0 +1,30 @@
+{
+    "id": 1512,
+    "name": "doa",
+    "description": "doa",
+    "gdleveldescription": "First 1.9 level `",
+    "author": "Charlotte",
+    "creators": ["Charlotte"],
+    "verifier": "Charlotte",
+    "verification": "https://www.youtube.com/watch?v=AYxleJg79DU",
+    "showcase": "https://www.youtube.com/watch?v=AYxleJg79DU",
+    "percentToQualify": 71,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=CgMYmPEztB4",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=mswZnbksHkk",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=31UdgixgGc4",
+          "percent": 100
+      }
+    ]
+}
+

@@ -1,0 +1,30 @@
+{
+    "id": 637,
+    "name": "greenland",
+    "description": "iceland prequel thats green for like 2 seconds then turns red",
+    "gdleveldescription": "its green. 1690 playtesting attempts, 262 verifying attempts. GLHF",
+    "author": "Tabbi",
+    "creators": ["Tabbi"],
+    "verifier": "Tabbi",
+    "verification": "https://www.youtube.com/watch?v=GAcYi527CSo",
+    "showcase": "https://www.youtube.com/watch?v=GAcYi527CSo",
+    "percentToQualify": 61,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=cu5KESkZbMc&list=PLTOqyzm614NTsUq2sfBIa75xeFSLQYB-S&index=3",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/PrpnrygV6B0",
+          "percent": 100
+      },
+      {
+          "user": "kas.ia",
+          "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
+          "percent": 100
+      }
+    ]
+}
+

@@ -1,0 +1,25 @@
+{
+    "id": 410,
+    "name": "Lcropolis",
+    "description": "acropolis remake",
+    "gdleveldescription": "Design by xj, guac, nointernet, me, and zud. Gameplay and verification by me.",
+    "author": "Sightnado",
+    "creators": ["Sightnado"],
+    "verifier": "Sightnado",
+    "verification": "https://www.youtube.com/watch?v=fsAdEBgctVE",
+    "showcase": "https://www.youtube.com/watch?v=fsAdEBgctVE",
+    "percentToQualify": 70,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/hspxjrjjsuE",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/3GylvkTOjmE",
+          "percent": 100
+      }
+    ]
+}
+

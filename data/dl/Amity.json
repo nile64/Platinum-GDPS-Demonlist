@@ -1,0 +1,30 @@
+{
+    "id": 209,
+    "name": "Amity",
+    "description": "uhh uhh uhh nine circles level",
+    "gdleveldescription": "generic nc level woohooo",
+    "author": "IAVVN",
+    "creators": ["IAVVN"],
+    "verifier": "IAVVN",
+    "verification": "https://www.youtube.com/watch?v=XOmK0lLuhIQ",
+    "showcase": "https://www.youtube.com/watch?v=XOmK0lLuhIQ",
+    "percentToQualify": 74,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/9Wfv-c5dQS8",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=VTVx4zyTGb8",
+          "percent": 100
+      },
+      {
+          "user": "kas.ia",
+          "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
+          "percent": 100
+      }
+    ]
+}
+

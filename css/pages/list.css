@@ -16,6 +16,11 @@
     font-size: x-large;
 }
 
+.page-list .sul-info-label {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
 .page-list .list {
     table-layout: auto;
 }

@@ -26,6 +26,8 @@ export default {
             <div class="list-container surface">
                 <input type="checkbox" id="sul-checkbox" name="sul-check" value="showUnverified" @click="showUnverified = !showUnverified">
                 <label for="sul-checkbox" class="sul-label">Show Pending Levels</label><br>
+                <p v-if="showUnverified" class="sul-info-label"><i>If a level is at the top, it either means it has no good opinions or it is possibly top 1.</i></p>
+                <br v-if="!showUnverified">
                 <h2 class="list-separator"><i>The List</i></h2>
                 <table class="list" v-if="list">
                     <tr v-for="([err, rank, level], i) in list">

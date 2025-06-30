@@ -1,0 +1,50 @@
+{
+    "id": 75,
+    "name": "Cerulean Chill",
+    "description": "blue level that (i think) was the first top 1 in platinums history",
+    "gdleveldescription": "Cool little level I made",
+    "author": "ZorpikGMD",
+    "creators": ["ZorpikGMD"],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=1XHwlIMVnNo",
+    "showcase": "https://www.youtube.com/watch?v=1XHwlIMVnNo",
+    "percentToQualify": 73,
+    "records": [
+      {
+          "user": "Kyy",
+          "link": "https://www.youtube.com/watch?v=X_n-TVb4zRs",
+          "percent": 100
+      },
+      {
+          "user": "Tabbi",
+          "link": "https://www.youtube.com/watch?v=IfcWqmeTlIg",
+          "percent": 100
+      },
+      {
+          "user": "ennea",
+          "link": "https://www.youtube.com/watch?v=RkHnEYZBFp4",
+          "percent": 100
+      },
+      {
+          "user": "Pololak",
+          "link": "https://youtu.be/cUOdMmwlqKc&t=590",
+          "percent": 100
+      },
+      {
+          "user": "fowoxGD",
+          "link": "https://www.youtube.com/watch?v=oCR9Cd3gAhM",
+          "percent": 100
+      },
+      {
+          "user": "kas.ia",
+          "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/IfcWqmeTlIg",
+          "percent": 100
+      }
+    ]
+}
+
