@@ -1,7 +1,7 @@
 {
     "id": 123,
     "name": "challenge Level Name",
-    "description": "level description decided by devs",
+    "description": "no challenges rn. we should probably make a \"challenge list submission\" forum. idfk ask zud tho.",
     "gdleveldescription": "description of the level in the ps",
     "author": "publisher",
     "creators": ["creator1", "creator2"],
