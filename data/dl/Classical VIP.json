@@ -1,0 +1,104 @@
+{
+    "id": 206,
+    "name": "Classical VIP",
+    "description": "Historic black and white Nine Circles demon.",
+    "gdleveldescription": "nerfed lmao",
+    "author": "DmitryYazov",
+    "creators": ["DmitryYazov"],
+    "verifier": "Tabbi",
+    "verification": "https://www.youtube.com/watch?v=XIX6MJ6CPUw&t=130s",
+    "showcase": "https://www.youtube.com/watch?v=XIX6MJ6CPUw&t=130s",
+    "percentToQualify": 78,
+    "records": [
+      {
+          "user": "Iavvn",
+          "link": "https://www.youtube.com/watch?v=OmEJtwbNc4M",
+          "percent": 100
+      },
+      {
+          "user": "Tr54",
+          "link": "https://www.youtube.com/watch?v=QoMx4bYh-fQ",
+          "percent": 100
+      },
+      {
+          "user": "Kami-kun",
+          "link": "https://www.youtube.com/watch?v=iuhlt1q02eI&t=293s",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=Dfmqm-S3R9E",
+          "percent": 100
+      },
+      {
+          "user": "Kyy",
+          "link": "https://www.youtube.com/watch?v=66UmcpYnOK8",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/cALnOsWt8Ec&t=269",
+          "percent": 100
+      },
+      {
+          "user": "Guac",
+          "link": "https://youtu.be/rnPp6XTWSeo",
+          "percent": 100
+      },
+      {
+          "user": "Thomasg31d",
+          "link": "https://youtu.be/rnPp6XTWSeo",
+          "percent": 100
+      },
+      {
+          "user": "FairytaleFrosty",
+          "link": "https://youtu.be/1srlMZ_a_Cc",
+          "percent": 100
+      },
+      {
+          "user": "Gp0",
+          "link": "https://youtu.be/npBPoAfqGpg",
+          "percent": 100
+      },
+      {
+          "user": "Marc",
+          "link": "https://youtu.be/89cfX-7693w",
+          "percent": 100
+      },
+      {
+          "user": "MrLokki",
+          "link": "https://youtu.be/HsTQ5wBKDbQ?si=7PPGwm9DtMDiAEPX",
+          "percent": 100
+      },
+      {
+          "user": "Svord",
+          "link": "https://www.youtube.com/watch?v=gXYB8qJ8TZI",
+          "percent": 100
+      },
+      {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=nVIQ66QckgU",
+          "percent": 100
+      },
+      {
+          "user": "Inidevy4732",
+          "link": "",
+          "percent": 100
+      },
+      {
+          "user": "Skellity",
+          "link": "https://www.youtube.com/watch?v=k020-iYMo6Q",
+          "percent": 100
+      },
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/OqDCjcoMe7A",
+          "percent": 100
+      },
+      {
+          "user": "Prototype",
+          "link": "https://youtu.be/1E79pnYFplA",
+          "percent": 100
+      }
+    ]
+}
