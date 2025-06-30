@@ -1,0 +1,44 @@
+{
+    "id": 733,
+    "name": "P3T",
+    "description": "A hot pink experimental Insane Demon covering all gamemodes.",
+    "gdleveldescription": "BLOOD-PINK! :3",
+    "author": "Guac",
+    "creators": ["Guac"],
+    "verifier": "Guac",
+    "verification": "https://www.youtube.com/watch?v=dZ38zKxM2C8",
+    "showcase": "https://youtu.be/FzMueq-WUcY",
+    "percentToQualify": 75,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/-YJR2MhxUSo",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/8783I0twwoc",
+          "percent": 100
+      },
+      {
+          "user": "ennea",
+          "link": "https://youtu.be/2epMgV67yqs",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=Of7w4TkOY0s",
+          "percent": 100
+      },
+      {
+          "user": "zudd",
+          "link": "https://www.youtube.com/watch?v=515dqgzlDmE",
+          "percent": 100
+      },
+      {
+          "user": "kas.ia",
+          "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
+          "percent": 100
+      }
+    ]
+}
