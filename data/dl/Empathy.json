@@ -1,0 +1,34 @@
+{
+    "id": 47,
+    "name": "Empathy",
+    "description": "",
+    "gdleveldescription": "is overrated, Crystal Castles has some way better songs but I could only find this one on NewGrounds so boohoohoo to me",
+    "author": "ZorpikGMD",
+    "creators": ["ZorpikGMD"],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=h61ISgLHReY",
+    "showcase": "https://youtu.be/psIkijBlqsY",
+    "percentToQualify": 75,
+    "records": [
+      {
+          "user": "Iavvn",
+          "link": "https://www.youtube.com/watch?v=grF5vhPhedU",
+          "percent": 100
+      },
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/Axcup1pJ8ZA&t=51",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=U8BlQ7-fJrw",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=g_1_4TnSjTA",
+          "percent": 100
+      }
+    ]
+}
