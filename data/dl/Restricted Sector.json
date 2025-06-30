@@ -13,20 +13,17 @@
       {
           "user": "Raezori",
           "link": "https://www.youtube.com/watch?v=HpevpAZz7Mg",
-          "percent": 100,
-          "hz": 360
+          "percent": 100
       },
       {
           "user": "Pololak",
           "link": "https://www.youtube.com/watch?v=vKZ1VNF-RNI",
-          "percent": 100,
-          "hz": 360
+          "percent": 100
       },
       {
           "user": "kas.ia",
           "link": "https://www.youtube.com/watch?v=Sq3KMUc3WrE",
-          "percent": 100,
-          "hz": 360
+          "percent": 100
       }
     ]
 }

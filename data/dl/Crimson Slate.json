@@ -13,20 +13,17 @@
       {
           "user": "kas.ia",
           "link": "https://youtu.be/FBYaM5NhLR8",
-          "percent": 100,
-          "hz": 360
+          "percent": 100
       },
       {
           "user": "technobuild",
           "link": "https://youtu.be/ywKbJd-Mnzs",
-          "percent": 100,
-          "hz": 360
+          "percent": 100
       },
       {
           "user": "InternetDasher",
           "link": "https://www.youtube.com/live/0UXJtPvmPik?si=udYISuz2DRkcfS9J",
-          "percent": 100,
-          "hz": 360
+          "percent": 100
       }
     ]
 }

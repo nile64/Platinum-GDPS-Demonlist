@@ -13,14 +13,12 @@
       {
           "user": "ToxicHG",
           "link": "https://youtu.be/1otiZ78joZ0?si=j4lCXFLMrl6qjzbH&t=1098",
-          "percent": 100,
-          "hz": 240
+          "percent": 100
       },
       {
           "user": "d6cd",
           "link": "https://youtu.be/BSB5cAogEwk",
-          "percent": 100,
-          "hz": 120
-      },
+          "percent": 100
+      }
     ]
 }
