@@ -1,0 +1,59 @@
+{
+    "id": 871,
+    "name": "Stage One",
+    "description": "No Description Provided.",
+    "gdleveldescription": "Stage One Complete. Proceed to Stage Two?",
+    "author": "kek",
+    "creators": ["kek"],
+    "verifier": "kek",
+    "verification": "https://youtu.be/9-e94WGuYZQ",
+    "showcase": "https://youtu.be/9-e94WGuYZQ",
+    "percentToQualify": 80,
+    "records": [
+      {
+          "user": "Sightnado",
+          "link": "https://youtu.be/Kb1xtaTDxNY",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=33kS3SXXvT0&t=248s",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=c2ggeQg86_s",
+          "percent": 100
+      },
+      {
+          "user": "Frosted",
+          "link": "https://www.youtube.com/watch?v=m_nXoqvId48",
+          "percent": 100
+      },
+      {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=nVIQ66QckgU",
+          "percent": 100
+      },
+      {
+          "user": "SpectricElectric",
+          "link": "https://www.youtube.com/watch?v=53A6T0kedrA",
+          "percent": 100
+      },
+      {
+          "user": "Inidevy4732",
+          "link": "https://www.youtube.com/watch?v=k020-iYMo6Q",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=Q4WX6-20-Jk",
+          "percent": 100
+      },
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/b0wnyZ3ZpRs",
+          "percent": 100
+      }
+    ]
+}
