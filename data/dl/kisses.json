@@ -1,0 +1,24 @@
+{
+    "id": 2166,
+    "name": "kisses",
+    "description": "A super flashy and upbeat demon with a song that feels straight out of a rhythm game.",
+    "gdleveldescription": "Speedbuild 6 days dedicated to sscyt celeste mousile kz80 thm",
+    "author": "rena",
+    "creators": ["rena"],
+    "verifier": "rena",
+    "verification": "https://www.youtube.com/watch?v=fKyY1Q9JooI",
+    "showcase": "https://www.youtube.com/watch?v=fKyY1Q9JooI",
+    "percentToQualify": 70,
+    "records": [
+      {
+          "user": "Guac",
+          "link": "https://www.youtube.com/watch?v=uox-h9BaEUU",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/esCQcmFyJ28",
+          "percent": 100
+      }
+    ]
+}
