@@ -1,0 +1,29 @@
+{
+    "id": 2346,
+    "name": "Xynth",
+    "description": "No Description Provided.",
+    "gdleveldescription": "Good Luck",
+    "author": "sengusza",
+    "creators": ["sengusza"],
+    "verifier": "sengusza",
+    "verification": "https://www.youtube.com/watch?v=RTMUvcdlO9A",
+    "showcase": "https://www.youtube.com/watch?v=RTMUvcdlO9A",
+    "percentToQualify": ,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/ToGrEZ_UYZA",
+          "percent": 100,
+      },
+            {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=hoE9ZWpUuNNGasVt&t=948",
+          "percent": 100,
+      },
+            {
+          "user": "d6cd",
+          "link": "https://youtu.be/3cDgWvrfkLs",
+          "percent": 100,
+      }
+    ]
+}
