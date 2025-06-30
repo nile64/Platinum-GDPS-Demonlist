@@ -1,0 +1,19 @@
+{
+    "id": 2751,
+    "name": "SILVR MAP",
+    "description": "A versatile, second half heavy, and upbeat demon. Focuses on all gamemodes except wave.",
+    "gdleveldescription": "10790 objects, pls rate RUBRUB",
+    "author": "silverra",
+    "creators": ["silverra"],
+    "verifier": "silverra",
+    "verification": "https://youtu.be/gsMveM088OM",
+    "showcase": "https://youtu.be/gsMveM088OM",
+    "percentToQualify": 80,
+    "records": [
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/78o3dRtJz5o",
+          "percent": 100
+      }
+    ]
+}
