@@ -1,0 +1,29 @@
+{
+    "id": 2139,
+    "name": "RGB",
+    "description": "The biggest fan of the rainbow on the entire demonlist.",
+    "gdleveldescription": "Cool glitchy level, collab with Nico!",
+    "author": "tr4visXD",
+    "creators": ["tr4visXD", "NICO"],
+    "verifier": "tr4visXD",
+    "verification": "https://www.youtube.com/watch?v=JMGjXlUAf4E",
+    "showcase": "https://www.youtube.com/watch?v=JMGjXlUAf4E",
+    "percentToQualify": 71,
+    "records": [
+      {
+          "user": "Guac",
+          "link": "https://youtu.be/R9t27wygAfE",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=Zf7xVVXfZwo",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/K-AJmBer-7o",
+          "percent": 100
+      }
+    ]
+}
