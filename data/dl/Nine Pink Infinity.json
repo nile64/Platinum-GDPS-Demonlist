@@ -1,0 +1,24 @@
+{
+    "id": 2759,
+    "name": "Nine Pink Infinity",
+    "description": "A buffed, redecorated take on the unrated level Nine Pink.",
+    "gdleveldescription": "remake of Nine Pink by zhenya",
+    "author": "flyingduck91",
+    "creators": ["zhenya", "flyingduck91"],
+    "verifier": "flyingduck91",
+    "verification": "https://discord.com/channels/1254752525572374629/1385913931159306350/1385913931159306350",
+    "showcase": "https://www.youtube.com/watch?v=84jB7t_EAOo",
+    "percentToQualify": 73,
+    "records": [
+      {
+          "user": "d6cd",
+          "link": "https://www.youtube.com/watch?v=84jB7t_EAOo",
+          "percent": 100
+      },
+      {
+          "user": "Guac",
+          "link": "https://www.youtube.com/watch?v=gi3EklBKiaw",
+          "percent": 100
+      }
+    ]
+}
