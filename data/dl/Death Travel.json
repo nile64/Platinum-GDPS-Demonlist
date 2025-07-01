@@ -1,0 +1,19 @@
+{
+    "id": 2379,
+    "name": "Death Travel",
+    "description": "The longest rated level on the GDPS, with over 9 minutes of well-polished gameplay and visuals.",
+    "gdleveldescription": "Inspired by Death by AleexHey and other levels, it offers a 9m 43s solo demon experience that combines creativity and design to enjoy this grand final journey!",
+    "author": "ItsYerson",
+    "creators": ["ItsYerson"],
+    "verifier": "ItsYerson",
+    "verification": "https://www.youtube.com/watch?v=8Qy__z33Ycg",
+    "showcase": "https://youtu.be/rUKLBThTWF8",
+    "percentToQualify": 73,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/AeDbSjFLDFc",
+          "percent": 100
+      }
+    ]
+}
