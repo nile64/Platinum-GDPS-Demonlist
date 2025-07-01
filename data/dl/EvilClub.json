@@ -1,0 +1,39 @@
+{
+    "id": 2476,
+    "name": "EvilClub",
+    "description": "A modern Platinum reimagining of Clubstep, faster paced while staying true to the original style.",
+    "gdleveldescription": "Remake of clubstep, for roptop style creator contest. Hope you like it! Comment if there are any bugs.",
+    "author": "Activels",
+    "creators": ["Activels"],
+    "verifier": "Activels",
+    "verification": "https://youtu.be/3_kgGEkp1-A",
+    "showcase": "https://youtu.be/3_kgGEkp1-A",
+    "percentToQualify": 79,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/Jj2vrYgGwig",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0&t=103",
+          "percent": 100
+      },
+      {
+          "user": "Mysterion16",
+          "link": "https://www.youtube.com/watch?v=o5aVCaH-pU4",
+          "percent": 100
+      },
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/KzWknNrZrwYY",
+          "percent": 100
+      },
+      {
+          "user": "Prototype",
+          "link": "https://youtu.be/6Apun0-SKcE",
+          "percent": 100
+      },
+    ]
+}
