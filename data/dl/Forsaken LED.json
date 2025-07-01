@@ -1,0 +1,19 @@
+{
+    "id": 2460,
+    "name": "Forsaken LED",
+    "description": "A hot pink, primarily cube, ball, and wave based level.",
+    "gdleveldescription": "first level made by african circles gaming goat68",
+    "author": "Skellity",
+    "creators": ["Skellity"],
+    "verifier": "Skellity",
+    "verification": "https://www.youtube.com/watch?v=S34cMT2Z-K8",
+    "showcase": "https://www.youtube.com/watch?v=S34cMT2Z-K8",
+    "percentToQualify": 83,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/XHUszvT_oaI",
+          "percent": 100
+      }
+    ]
+}
