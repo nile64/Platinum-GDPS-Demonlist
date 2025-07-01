@@ -1,0 +1,19 @@
+{
+    "id": 2177,
+    "name": "kinda wacky",
+    "description": "A level that lives up to its name, with a surrealist style and lots of bizarre decorative choices, and a brutal dual to go along with it.",
+    "gdleveldescription": "Sillness as intended",
+    "author": "toxxix",
+    "creators": ["toxxix"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/UA0NqIw-Gnk",
+    "showcase": "https://youtu.be/UA0NqIw-Gnk",
+    "percentToQualify": 67,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=WAWEsUkf1IWp7kzx&t=704",
+          "percent": 100
+      }
+    ]
+}
