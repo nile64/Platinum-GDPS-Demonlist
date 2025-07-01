@@ -1,0 +1,34 @@
+{
+    "id": 1731,
+    "name": "Freaky Dimensions",
+    "description": "A freaky medium length level with multiple single-colour parts.",
+    "gdleveldescription": "The deal is that you are freaky while playing this. Rate feature or i will angry. Shortest demon ever.",
+    "author": "Taraco",
+    "creators": ["Taraco"],
+    "verifier": "Taraco",
+    "verification": "https://www.youtube.com/watch?v=u4PofkG1r_s",
+    "showcase": "https://www.youtube.com/watch?v=u4PofkG1r_s",
+    "percentToQualify": 89,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=7no2OZimWs4",
+          "percent": 100
+      },
+      {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=GWkIhg7n45k",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=T2RHMfT3-es",
+          "percent": 100
+      }
+    ]
+}
