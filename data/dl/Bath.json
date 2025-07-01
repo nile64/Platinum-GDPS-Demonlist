@@ -1,0 +1,19 @@
+{
+    "id": 2759,
+    "name": "Bath",
+    "description": "A red-orange take on some of the Bloodbath tropes, with a predominant focus on cube, ship, and wave gameplay.",
+    "gdleveldescription": "Blood not Included",
+    "author": "Awesomeoctogon",
+    "creators": ["Awesomeoctogon"],
+    "verifier": "Awesomeoctogon",
+    "verification": "https://youtu.be/3tpxurBO1p8",
+    "showcase": "https://youtu.be/3tpxurBO1p8",
+    "percentToQualify": 76,
+    "records": [
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/p1gFVXwjcVs",
+          "percent": 100
+      }
+    ]
+}
