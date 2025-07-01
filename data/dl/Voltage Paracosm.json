@@ -1,0 +1,54 @@
+{
+    "id": 1065,
+    "name": "Voltage Paracosm",
+    "description": "An old, vibrant, upbeat, and extremely flashy Nine Circles level.",
+    "gdleveldescription": "my best nine circles level so far",
+    "author": "CirnoTheUwU",
+    "creators": ["CirnoTheUwU"],
+    "verifier": "CirnoTheUwU",
+    "verification": "https://youtu.be/RTbMFfIjfvY",
+    "showcase": "https://youtu.be/RTbMFfIjfvY",
+    "percentToQualify": 76,
+    "records": [
+      {
+          "user": "FairytaleFrosty",
+          "link": "https://www.youtube.com/watch?v=9KTFpJvgPaI",
+          "percent": 100
+      },
+      {
+          "user": "Svord",
+          "link": "https://www.youtube.com/watch?v=v4nvdUn--AU",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/BfJMG-LvTXc",
+          "percent": 100
+      },
+      {
+          "user": "Activels",
+          "link": "https://youtu.be/PVRi8jA58rY",
+          "percent": 100
+      },
+      {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=nVIQ66QckgU",
+          "percent": 100
+      },
+      {
+          "user": "Inidevy4732",
+          "link": "https://www.youtube.com/watch?v=k020-iYMo6Q",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=C4UiVZLTgL8",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      }
+    ]
+}
