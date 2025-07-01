@@ -1,0 +1,29 @@
+{
+    "id": 1859,
+    "name": "TRIGGER Removal Tool",
+    "description": "A blue and pink demon with simple pulsing designs.",
+    "gdleveldescription": "My first level on the GDPS. Made with <3 from Cubie.",
+    "author": "cubie9950",
+    "creators": ["cubie9950"],
+    "verifier": "Svord",
+    "verification": "https://www.youtube.com/watch?v=QOIYF0b6k_k",
+    "showcase": "https://www.youtube.com/watch?v=QOIYF0b6k_k",
+    "percentToQualify": 77,
+    "records": [
+      {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=nVIQ66QckgU",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345611385370837124",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/25Tbh83myZ4",
+          "percent": 100
+      }
+    ]
+}
