@@ -1,0 +1,24 @@
+{
+    "id": 750,
+    "name": "Super Meow World II",
+    "description": "A 1.0 styled timing demon, with an unfortunate lack of cats",
+    "gdleveldescription": "",
+    "author": "Guac",
+    "creators": ["Guac"],
+    "verifier": "Guac",
+    "verification": "https://www.youtube.com/watch?v=kojte0ZP7l4",
+    "showcase": "https://www.youtube.com/watch?v=kojte0ZP7l4",
+    "percentToQualify": 76,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://www.youtube.com/watch?v=vFF1Yup-NII",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/5NHmiPelPoY",
+          "percent": 100
+      }
+    ]
+}
