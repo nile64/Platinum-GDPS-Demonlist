@@ -1,0 +1,19 @@
+{
+    "id": 143,
+    "name": "Momory",
+    "description": "An ancient Platinum demon; a monochromatic demon with an unnerving atmosphere, brutal beginning, and tough ship/timings gameplay throughout.",
+    "gdleveldescription": "Original level was made when I was annoyed at Zud and GDPS so it was very lazy. Updated to hopefully be better. Thanks",
+    "author": "ZorpikGMD",
+    "creators": ["ZorpikGMD"],
+    "verifier": "ZorpikGMD",
+    "verification": "https://youtu.be/7le-WVLoXmE",
+    "showcase": "https://youtu.be/7le-WVLoXmE",
+    "percentToQualify": 67,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=OQp45kS2AAU",
+          "percent": 100
+      }
+    ]
+}
