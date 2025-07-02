@@ -1,0 +1,34 @@
+{
+    "id": 1517,
+    "name": "MaWaRu",
+    "description": "SICK A*S DROP! X)",
+    "gdleveldescription": "First level! 43997 obj! Bugfix update. Enjoy! OuO",
+    "author": "Zybrox",
+    "creators": ["Zybrox"],
+    "verifier": "Inidevy4732",
+    "verification": "https://www.youtube.com/watch?v=9j6Ggabl3n0",
+    "showcase": "https://www.youtube.com/watch?v=9j6Ggabl3n0",
+    "percentToQualify": 80,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=Q4WX6-20-Jk",
+          "percent": 100
+      },
+      {
+          "user": "Zybrox",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345824715855364167",
+          "percent": 100
+      },
+      {
+          "user": "liam",
+          "link": "https://www.youtube.com/watch?v=sonrXW2zaDs",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=v7fGKj6Iv2g",
+          "percent": 100
+      }
+    ]
+}
