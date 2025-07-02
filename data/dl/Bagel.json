@@ -1,0 +1,24 @@
+{
+    "id": 2344,
+    "name": "Bagel",
+    "description": "A short level with a fast-paced, pastel coloured dual lasting more than half of the level.",
+    "gdleveldescription": "originally started to see if i could make a design with the default block look good",
+    "author": "flyingduck91",
+    "creators": ["flyingduck91"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/2yIOir42ML4",
+    "showcase": "https://youtu.be/2yIOir42ML4",
+    "percentToQualify": 83,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=704RqaAGQnBYyKHI&t=818",
+          "percent": 100
+      },
+      {
+          "user": "cornbread",
+          "link": "https://www.youtube.com/watch?v=A2N0TUOPI-E",
+          "percent": 100
+      }
+    ]
+}
