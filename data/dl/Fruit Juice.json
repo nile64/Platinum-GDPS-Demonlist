@@ -1,0 +1,19 @@
+{
+    "id": 2408,
+    "name": "Fruit Juice",
+    "description": "A fruity level that alternates between fast-paced gameplay with fakeouts, and slow, claustrophobic gameplay.",
+    "gdleveldescription": "254 att, 9*/easy demon!!",
+    "author": "OhJayMaybe",
+    "creators": ["OhJayMaybe"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/zt23a_uMYyU",
+    "showcase": "https://youtu.be/zt23a_uMYyU",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0&t=880",
+          "percent": 100
+      }
+    ]
+}
