@@ -1,0 +1,49 @@
+{
+    "id": 128,
+    "name": "Casino Circles",
+    "description": "A classic, flashy, yellow Nine Circles demon. all about that monayyyyyy",
+    "gdleveldescription": "Gay people in JUNE",
+    "author": "kek",
+    "creators": ["kek"],
+    "verifier": "kek",
+    "verification": "https://youtu.be/hIHSo1kbkso",
+    "showcase": "https://youtu.be/hIHSo1kbkso",
+    "percentToQualify": 70,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=ZUz_kkdRq1o",
+          "percent": 100
+      },
+      {
+          "user": "Iavvn",
+          "link": "https://www.youtube.com/watch?v=YYY3NdvYeAA",
+          "percent": 100
+      },
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/XIX6MJ6CPUw&t=215",
+          "percent": 100
+      },
+      {
+          "user": "Kyy",
+          "link": "https://www.youtube.com/watch?v=mfaDnMuZJY0",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/cALnOsWt8Ec&t=186",
+          "percent": 100
+      },
+      {
+          "user": "Svord",
+          "link": "https://www.youtube.com/watch?v=dKk1RBr1jVg",
+          "percent": 100
+      },
+      {
+          "user": "Guac",
+          "link": "https://www.youtube.com/watch?v=rtbR6icPICw",
+          "percent": 100
+      }
+    ]
+}
