@@ -1,0 +1,64 @@
+{
+    "id": 36,
+    "name": "Gay People Tomorrow",
+    "description": "One of the oldest Platinum levels; a very gay endeavour indeed.",
+    "gdleveldescription": "Gay people in JUNE",
+    "author": "Raezori",
+    "creators": ["Raezori"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/DNIjTcFqNTo",
+    "showcase": "https://youtu.be/DNIjTcFqNTo",
+    "percentToQualify": 72,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://www.youtube.com/watch?v=XaFk8lSeh6Q",
+          "percent": 100
+      },
+      {
+          "user": "Mysterion16",
+          "link": "https://www.youtube.com/watch?v=tnGFvloNXBI",
+          "percent": 100
+      },
+      {
+          "user": "",
+          "link": "",
+          "percent": 100
+      },
+      {
+          "user": "Thomasg31d",
+          "link": "https://youtu.be/mdPHk5kQixg",
+          "percent": 100
+      },
+      {
+          "user": "GreenQuasar",
+          "link": "https://www.youtube.com/watch?v=K2L21ISUk14",
+          "percent": 100
+      },
+      {
+          "user": "orangethecolor",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1378402318998835310",
+          "percent": 100
+      },
+      {
+          "user": "Ayueshi",
+          "link": "https://medal.tv/games/requested/clips/koF9roWBkLOgf4plm?invite=cr-MSxlVGMsMjM5MDIzMDM5",
+          "percent": 100
+      },
+      {
+          "user": "zudd",
+          "link": "https://youtu.be/9ehC1k2nAM0",
+          "percent": 100
+      },
+      {
+          "user": "Svord",
+          "link": "https://youtu.be/WMTdGKvOLNI",
+          "percent": 100
+      },
+      {
+          "user": "Guac",
+          "link": "https://youtu.be/WMTdGKvOLNI",
+          "percent": 100
+      }
+    ]
+}
