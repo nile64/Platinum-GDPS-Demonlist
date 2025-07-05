@@ -1,0 +1,29 @@
+{
+    "id": 811,
+    "name": "DeltaWrld",
+    "description": "Weird gameplay, low quality decoration, do I say more?",
+    "gdleveldescription": "",
+    "author": "DIMMY",
+    "creators": ["DIMMY", "Taraco"],
+    "verifier": "Taraco",
+    "verification": "https://www.youtube.com/watch?v=0ojg0smf79o",
+    "showcase": "https://www.youtube.com/watch?v=0ojg0smf79o",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=FF92MAzILG8",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345125995006525493",
+          "percent": 100
+      },
+    {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=8LzpjkclB27uTQm5&t=319",
+          "percent": 100
+      }
+    ]
+}
