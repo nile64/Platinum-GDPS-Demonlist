@@ -1,0 +1,29 @@
+{
+    "id": 1156,
+    "name": "Forbidden Corridors",
+    "description": "Cool spooky corridor themed level that was made for the 2024 Halloween CC",
+    "gdleveldescription": "npesta creepypasta",
+    "author": "ErrorPixel",
+    "creators": [],
+    "verifier": "Tabbi",
+    "verification": "https://www.youtube.com/watch?v=07KfWaeGvNo",
+    "showcase": "https://www.youtube.com/watch?v=07KfWaeGvNo",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=Cxh4hcj-OI4",
+          "percent": 100
+      },
+    {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=LrSu5zAGtkU",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      }
+    ]
+}
