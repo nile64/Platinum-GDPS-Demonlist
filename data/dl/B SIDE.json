@@ -1,0 +1,24 @@
+{
+    "id": 1610,
+    "name": "B SIDE",
+    "description": "",
+    "gdleveldescription": "Zybrox Inc. is not responsible for broken equipment due to the playthrough of this map. GLHF",
+    "author": "Zybrox",
+    "creators": [],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=BnqUoi244KA",
+    "showcase": "https://www.youtube.com/watch?v=BnqUoi244KA",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Zybrox",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345821798893359166",
+          "percent": 100
+      },
+    {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=g2maX6eiia4",
+          "percent": 100
+      }
+    ]
+}
