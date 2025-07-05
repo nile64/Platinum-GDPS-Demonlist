@@ -1,0 +1,34 @@
+{
+    "id": 2017,
+    "name": "The Final Phase",
+    "description": "Classic styled hard demon level that has a weird dual.",
+    "gdleveldescription": "5,400 attempts to verify. Hard Demon? By Me Marshed777",
+    "author": "samjummit",
+    "creators": ["Marshed777"],
+    "verifier": "samjummit",
+    "verification": "https://www.youtube.com/watch?v=C4UiVZLTgL8",
+    "showcase": "https://www.youtube.com/watch?v=C4UiVZLTgL8",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=C4UiVZLTgL8",
+          "percent": 100
+      },
+   {
+          "user": "ZorpikGMD",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345125103528050782",
+          "percent": 100
+      },
+  {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=p1vtre72Mq0",
+          "percent": 100
+      },
+  {
+          "user": "activels",
+          "link": "https://youtu.be/oeSIkE9o8Ck?si=hZgeGeKkYHcY6F5I",
+          "percent": 100
+      }
+    ]
+}
