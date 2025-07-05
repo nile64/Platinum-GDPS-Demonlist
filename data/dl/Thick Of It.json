@@ -1,0 +1,29 @@
+{
+    "id": 1011,
+    "name": "Thick Of It",
+    "description": "High effort sh*tpost level using a certain song by prime founder KSI",
+    "gdleveldescription": "From the screen, to the ring, to the pen, to the KING!",
+    "author": "Raezori",
+    "creators": [],
+    "verifier": "Raezori",
+    "verification": "https://www.youtube.com/watch?v=j_RIHBC4f-Y",
+    "showcase": "https://www.youtube.com/watch?v=j_RIHBC4f-Y",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=l7O1kpbx1yM",
+          "percent": 100
+      },
+    {
+          "user": "Inidevy4732",
+          "link": "https://www.youtube.com/watch?v=k020-iYMo6Q",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345127582584143984",
+          "percent": 100
+      }
+    ]
+}
