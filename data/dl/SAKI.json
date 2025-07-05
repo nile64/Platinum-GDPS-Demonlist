@@ -1,0 +1,24 @@
+{
+    "id": 1799,
+    "name": "SAKI",
+    "description": "level description decided by devs, can also be used to show opinions of list mods before its placed. descriptions arent required.",
+    "gdleveldescription": "MaWaRu sequel with better block design and even better EFFX. Verified by Zudd ouo",
+    "author": "Zybrox",
+    "creators": [],
+    "verifier": "zudd",
+    "verification": "https://www.youtube.com/watch?v=TGrNeFtAZvg",
+    "showcase": "https://www.youtube.com/watch?v=TGrNeFtAZvg",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      },
+    {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=gh9NEbBRXt4",
+          "percent": 100
+      }
+    ]
+}
