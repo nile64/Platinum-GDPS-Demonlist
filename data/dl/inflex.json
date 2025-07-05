@@ -1,0 +1,44 @@
+{
+    "id": 919,
+    "name": "inflex",
+    "description": "Dont play this if you value your sanity",
+    "gdleveldescription": "probably my worst level. but also my longest",
+    "author": "NoInternet",
+    "creators": [],
+    "verifier": "NoInternet",
+    "verification": "https://www.youtube.com/watch?v=Da8OXX3NAA4",
+    "showcase": "https://www.youtube.com/watch?v=Da8OXX3NAA4",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Svord",
+          "link": "https://youtu.be/gXYB8qJ8TZI",
+          "percent": 100
+      },
+    {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=aZdrrIwIki8",
+          "percent": 100
+      },
+    {
+          "user": "Inidevy4732",
+          "link": "https://www.youtube.com/watch?v=k020-iYMo6Q",
+          "percent": 100
+      },
+    {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=GWkIhg7n45k",
+          "percent": 100
+      },
+    {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=2pP1rvjv77E",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      }
+    ]
+}
