@@ -1,0 +1,29 @@
+{
+    "id": 1775,
+    "name": "Yellow and purple v2",
+    "description": "Chokepoint Demon!",
+    "gdleveldescription": "(no description provided)",
+    "author": "NoInternet",
+    "creators": [],
+    "verifier": "NoInternet",
+    "verification": "https://www.youtube.com/watch?v=Lg5YwO_9as8",
+    "showcase": "https://www.youtube.com/watch?v=Lg5YwO_9as8",
+    "percentToQualify": 73,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/EeLPbdjjQAU",
+          "percent": 100
+      },
+    {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=2pP1rvjv77E",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=Y9GBcd7dSWI",
+          "percent": 100
+      }
+    ]
+}
