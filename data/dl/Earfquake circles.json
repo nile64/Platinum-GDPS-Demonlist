@@ -10,6 +10,10 @@
     "showcase": "https://www.youtube.com/watch?v=UdGnl--3tPg",
     "percentToQualify": 76,
     "records": [
-
+      {
+          "user": "Yoj527",
+          "link": "https://www.youtube.com/watch?v=jTQ5pqsPCU4",
+          "percent": 100
+      }
     ]
 }
