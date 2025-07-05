@@ -1,0 +1,29 @@
+{
+    "id": 40,
+    "name": "Gray Grey",
+    "description": "Ancient a*s level, old Zorpik gameplay so be prepared!",
+    "gdleveldescription": "sigma ballsac",
+    "author": "ZorpikGMD",
+    "creators": [],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=4tONP_ZmQfk",
+    "showcase": "https://www.youtube.com/watch?v=4tONP_ZmQfk",
+    "percentToQualify": 75,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=0LLCIHindZk",
+          "percent": 100
+     },
+    {
+          "user": "Tabbi",
+          "link": "https://www.youtube.com/watch?v=Axcup1pJ8ZA",
+          "percent": 100
+      },
+    {
+          "user": "IAVVN",
+          "link": "https://www.youtube.com/watch?v=DBKEcBYtuW8",
+          "percent": 100
+      }
+    ]
+}
