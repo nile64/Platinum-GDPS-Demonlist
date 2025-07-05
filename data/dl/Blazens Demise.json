@@ -1,24 +1,24 @@
 {
     "id": 385,
     "name": "Blazens Demise",
-    "description": "Platinum GDPS's biggest megacollab, made for a GDPS Hub event.",
+    "description": "Very unbalanced, chokepointy, and janky at times. Also WHY SO MANY PEOPLE???",
     "gdleveldescription": "verified nerfed 570ish attempts",
-    "author": "purrplaysLE",
-    "creators": ["zudd", "Mysterion16", "FancyAGroudon", "Tabbi", "dub", "mmo", "Kami-kun", "ErrorPixel", "Monstrosity", "purrplaysLE", "keksienkingi", "viedogamermega", "saadexe", "Elegmatic", "Predd", "iavvn", "TheRealD4rkness", "Svord113", "1MadJack1", "LilBroCodes", "Ashley"],
+    "author": "Player",
+    "creators": ["Mysterion16","Fancy","Tabbi","rusted","mmo","Kami-kun","ErrorPixel","Monstrosity","purrplaysLE","kek","zudd","videogamermega","Saadexe","Elegmatic","Darkness","Svord","1MadJack1","ASHLEY_DIES_ALONE"],
     "verifier": "purrplaysLE",
     "verification": "https://www.youtube.com/watch?v=-TzcnyxI37c",
-    "showcase": "https://youtu.be/xixDgB_fm8g",
-    "percentToQualify": 67,
+    "showcase": "https://www.youtube.com/watch?v=-TzcnyxI37c",
+    "percentToQualify": 76,
     "records": [
       {
           "user": "ZorpikGMD",
           "link": "https://youtu.be/sBbefaPyg0Y",
           "percent": 100
       },
-	  {
+    {
           "user": "Raezori",
           "link": "https://www.youtube.com/watch?v=m3RYcBkEjG0",
           "percent": 100
-      },
+      }
     ]
 }
