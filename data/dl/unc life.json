@@ -1,0 +1,24 @@
+{
+    "id": 1870,
+    "name": "unc life",
+    "description": "S T R A I G H T   F L Y",
+    "gdleveldescription": "this is my easy",
+    "author": "NoInternet",
+    "creators": [],
+    "verifier": "NoInternet",
+    "verification": "https://www.youtube.com/watch?v=mZB9OITmzgc",
+    "showcase": "https://www.youtube.com/watch?v=mZB9OITmzgc",
+    "percentToQualify": 75,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=7Fp9QQ2bVck",
+          "percent": 100
+      },
+    {
+          "user": "Raezori",
+          "link": "https://youtu.be/KlfcZvkVaho",
+          "percent": 100
+      }
+    ]
+}
