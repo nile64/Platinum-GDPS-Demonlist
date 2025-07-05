@@ -1,0 +1,34 @@
+{
+    "id": 1001,
+    "name": "i have the better minecraft level gp0",
+    "description": "Supposedly better than 937 by Gp0, a Minecraft themed, slow-paced level.",
+    "gdleveldescription": "hi",
+    "author": "nile",
+    "creators": ["nile"],
+    "verifier": "nile",
+    "verification": "https://youtu.be/kJvaZCNeaNE",
+    "showcase": "https://youtu.be/HNVqsByKG74",
+    "percentToQualify": 70,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://www.youtube.com/watch?v=It1NJ1RRKXw",
+          "percent": 100
+      },
+	  {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=koV-xuBX0NE",
+          "percent": 100
+      },
+	  {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=VvoD1ijUDCU",
+          "percent": 100
+      },
+	  {
+          "user": "ZorpikGMD",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345069349777703023",
+          "percent": 100
+      }
+    ]
+}

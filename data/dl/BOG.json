@@ -1,0 +1,19 @@
+{
+    "id": 2680,
+    "name": "BOG",
+    "description": "A short, light-colored Insane Demon with a fast-paced song.",
+    "gdleveldescription": "Say, isnt it strange? Created by BirdTurdW, verified by me. Also, I request that you give that creator point to hi",
+    "author": "wearensfw",
+    "creators": ["birdturdw"],
+    "verifier": "wearensfw",
+    "verification": "https://youtu.be/yZ-WL53uth8",
+    "showcase": "https://youtu.be/q18gnKitSjk",
+    "percentToQualify": 72,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/wYHn2yKtYW4",
+          "percent": 100
+      }
+    ]
+}

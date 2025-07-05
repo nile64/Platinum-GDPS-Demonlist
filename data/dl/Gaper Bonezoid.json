@@ -1,0 +1,34 @@
+{
+    "id": 1171,
+    "name": "Gaper Bonezoid",
+    "description": "A Halloween themed level with difficult cube timings and a popular Halloween song.",
+    "gdleveldescription": "My Halloween CC Entry",
+    "author": "Gp0",
+    "creators": ["Gp0"],
+    "verifier": "Gp0",
+    "verification": "https://youtu.be/brc14iBukOo?si=8nYwv6pFZOZYAmnO",
+    "showcase": "https://youtu.be/twFx2PYXkcw",
+    "percentToQualify": 76,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=55ACR7BuuvI",
+          "percent": 100
+      },
+	  {
+          "user": "ZorpikGMD",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1344376488811696148",
+          "percent": 100
+      },
+	  {
+          "user": "Guac",
+          "link": "https://www.youtube.com/watch?v=KlDYw3IvqrA",
+          "percent": 100
+      },
+	  {
+          "user": "Raezori",
+          "link": "https://youtu.be/4fnWOPcZ6pY",
+          "percent": 100
+      }
+    ]
+}
