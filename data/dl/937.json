@@ -1,0 +1,49 @@
+{
+    "id": 937,
+    "name": "937",
+    "description": "Very plain and basic timing based level that gives off Minecraft vibes.",
+    "gdleveldescription": "ITS NOT MINECRAFT",
+    "author": "Gp0",
+    "creators": [],
+    "verifier": "Gp0",
+    "verification": "https://www.youtube.com/watch?v=Uk0M39Q7Dwg",
+    "showcase": "https://www.youtube.com/watch?v=Uk0M39Q7Dwg",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Sightnado",
+          "link": "https://youtu.be/RSEH7Ns9R6E",
+          "percent": 100
+      },
+    {
+          "user": "Tabbi",
+          "link": "https://youtu.be/IKbTmTWRLfU",
+          "percent": 100
+      },
+   {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/IVbwwcAs9-w",
+          "percent": 100
+      },
+    {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=o_nWixR5ApU",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      },
+    {
+          "user": "cornbread",
+          "link": "https://www.youtube.com/watch?v=QZwjlmiz4zo",
+          "percent": 100
+      },
+    {
+          "user": "Guac",
+          "link": "https://www.youtube.com/watch?v=DyvMMqklHgk",
+          "percent": 100
+      }
+    ]
+}
