@@ -6,7 +6,7 @@
     },
     {
         "name": "Hellish Pack",
-        "levels": ["Massacre", "The Purgatory", "The Hell Tunnel"],
+        "levels": ["MASSACRE", "The Purgatory", "The Hell Tunnel"],
         "colour": "linear-gradient(to right, #f24741, #f7140c)"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "name": "Unc Pack",
-        "levels": ["unc life", "uncMare"],
+        "levels": ["unc life", "uncMARE"],
         "colour": "linear-gradient(to right, #baa953, #a39032)"
     },
     {
@@ -43,10 +43,5 @@
         "name": "Text Limit Bypass Pack",
         "levels": ["i have the better minecraft level gp0", "MOST RACIST LEVEL OF ALL TIME IN THE HISTORY OF GEOMETRY DASH PRIVATE SERVERS", "Samsung Crystal UHD CU7172 43 Inch TV UE43CU7172UXXH 2023 Model PurColor Crystal Processor 4K Motion Xcelerator Smart TV 2023"],
         "colour": "linear-gradient(to right, #81af77, #518447)"
-    },
-    {
-        "name": "\"Easy\" Pack",
-        "levels": ["Easy", "Brainwaves"],
-        "colour": "linear-gradient(to right, #2b93d8, #1167a0)"
     }
 ]
