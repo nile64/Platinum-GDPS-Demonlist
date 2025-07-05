@@ -1,0 +1,29 @@
+{
+    "id": 859,
+    "name": "Interstellar Journey",
+    "description": "Big megacollab that has generally good gameplay throughout until you get to Taraco's part 😢",
+    "gdleveldescription": "Amazing MC by kek, Spectric, aivvn, Zud, Mysterion16, Taraco, MrMM, and Elysium. (5.10.2024)",
+    "author": "kek",
+    "creators": ["kek","SpectricElectric","IAVVN","zudd","Mysterion16","Taraco","MrMM","Elysium"],
+    "verifier": "kek",
+    "verification": "https://youtu.be/EE1fQiQ4RXw",
+    "showcase": "https://youtu.be/EE1fQiQ4RXw",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=7Q8dpeUjwn8",
+          "percent": 100
+      },
+    {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=3A07Gdq1LdY",
+          "percent": 100
+      },
+    {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=GWkIhg7n45k",
+          "percent": 100
+      }
+    ]
+}
