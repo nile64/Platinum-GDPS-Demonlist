@@ -1,0 +1,29 @@
+{
+    "id": 210,
+    "name": "uncMARE",
+    "description": "Formerly known as zudMARE before Svord realised that Zud was ancient af, this memory level contains parts that are reminiscent of other popular memory levels and no two parts feel the same.",
+    "gdleveldescription": "zud neva clear",
+    "author": "Svord",
+    "creators": [],
+    "verifier": "Svord",
+    "verification": "https://www.youtube.com/watch?v=mgDSsYkrZbw",
+    "showcase": "https://www.youtube.com/watch?v=mgDSsYkrZbw",
+    "percentToQualify": 74,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=-fFLWyzl9YA",
+          "percent": 100
+      },
+    {
+          "user": "IAVVN",
+          "link": "https://www.youtube.com/watch?v=TN3TC7LkHYU",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=7Q8dpeUjwn8",
+          "percent": 100
+      }
+    ]
+}
