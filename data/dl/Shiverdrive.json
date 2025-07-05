@@ -1,0 +1,29 @@
+{
+    "id": 2421,
+    "name": "Shiverdrive",
+    "description": "",
+    "gdleveldescription": "fried chicken",
+    "author": "Kine",
+    "creators": [],
+    "verifier": "Kine",
+    "verification": "https://www.youtube.com/watch?v=rq41aJyCmao",
+    "showcase": "https://www.youtube.com/watch?v=rq41aJyCmao",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/SngFoutl1pI",
+          "percent": 100
+      },
+    {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=YTHtIyS33nlJIJK6&t=1042",
+          "percent": 100
+      },
+   {
+          "user": "wearensfw",
+          "link": "https://youtu.be/OXCA2okuScM",
+          "percent": 100
+      }
+    ]
+}
