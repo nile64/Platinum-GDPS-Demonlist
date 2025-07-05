@@ -1,18 +1,28 @@
 {
-    "id": 2759,
-    "name": "Bath",
-    "description": "A red-orange take on some of the Bloodbath tropes, with a predominant focus on cube, ship, and wave gameplay.",
-    "gdleveldescription": "Blood not Included",
-    "author": "Awesomeoctogon",
-    "creators": ["Awesomeoctogon"],
-    "verifier": "Awesomeoctogon",
-    "verification": "https://youtu.be/3tpxurBO1p8",
-    "showcase": "https://youtu.be/3tpxurBO1p8",
-    "percentToQualify": 76,
+    "id": 425,
+    "name": "Free Vbucks EXE",
+    "description": "Killbot inspired insane demon difficulty level with not too many memory aspects despite its inrpitation.",
+    "gdleveldescription": "(no description provided)",
+    "author": "Gp0",
+    "creators": [],
+    "verifier": "Gp0",
+    "verification": "https://www.youtube.com/watch?v=_emDsV5pOQY",
+    "showcase": "https://www.youtube.com/watch?v=_emDsV5pOQY",
+    "percentToQualify": 92,
     "records": [
       {
-          "user": "d6cd",
-          "link": "https://youtu.be/p1gFVXwjcVs",
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=g4XgGGol7Sg",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345060530079006842",
+          "percent": 100
+      },
+    {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=C_6nAEU7_cM",
           "percent": 100
       }
     ]
