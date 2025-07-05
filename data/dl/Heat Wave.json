@@ -1,0 +1,29 @@
+{
+    "id": 1325,
+    "name": "Heat Wave",
+    "description": "Its gettin hot in here!",
+    "gdleveldescription": "If you cant take the heat, get out of the kitchen! Insane Demon?",
+    "author": "activels",
+    "creators": [],
+    "verifier": "activels",
+    "verification": "https://www.youtube.com/watch?v=etjUMvclnkA",
+    "showcase": "https://www.youtube.com/watch?v=etjUMvclnkA",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=ZEx9TZN800U",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=5_YvrxFALHA",
+          "percent": 100
+      },
+    {
+          "user": "VittoRanetto",
+          "link": "https://streamable.com/f6wtos",
+          "percent": 100
+      }
+    ]
+}
