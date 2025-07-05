@@ -1,0 +1,34 @@
+{
+    "id": 682,
+    "name": "The Hell Tunnel",
+    "description": "Hell themed level with some annoying spike slope hitboxes.",
+    "gdleveldescription": "Just a quick level I build around a part for a collab I dropped out of",
+    "author": "Sightnado",
+    "creators": [],
+    "verifier": "Sightnado",
+    "verification": "https://www.youtube.com/watch?v=l2LdSQzTSDE",
+    "showcase": "https://www.youtube.com/watch?v=l2LdSQzTSDE",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=0v4c9OwG9gQ",
+          "percent": 100
+      },
+    {
+          "user": "Inidevy4732",
+          "link": "https://www.youtube.com/watch?v=k020-iYMo6Q",
+          "percent": 100
+      },
+    {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      },
+    {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=U1oQXClwKA3TcntZ&t=260",
+          "percent": 100
+      }
+    ]
+}
