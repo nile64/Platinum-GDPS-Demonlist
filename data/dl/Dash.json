@@ -1,0 +1,29 @@
+{
+    "id": 2436,
+    "name": "Dash",
+    "description": "A level built for the RobTop CC that draws many inspirations from Theory of Everything 2.",
+    "gdleveldescription": "Robtop styled demon for the Platinum GDPS Main level styled CC",
+    "author": "SpectricElectric",
+    "creators": ["SpectricElectric"],
+    "verifier": "SpectricElectric",
+    "verification": "https://youtu.be/THeREJx0ndw",
+    "showcase": "https://youtu.be/THeREJx0ndw",
+    "percentToQualify": 66,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/fARJzCByELo",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=gJ47ALh5E4_4mySJ&t=574",
+          "percent": 100
+      },
+      {
+          "user": "Thomasg31d",
+          "link": "https://youtu.be/EkwyfR805BE",
+          "percent": 100
+      }
+    ]
+}
