@@ -1,0 +1,44 @@
+{
+    "id": 1727,
+    "name": "Stereo Circles",
+    "description": "A Stereo Madness version of Nine Circles, which deviates a lot from the typical gameplay format.",
+    "gdleveldescription": "2565 atts, and 23 days of hell. FINALLY GG. stupid phone sensor...",
+    "author": "Qunyix",
+    "creators": ["Qunyix"],
+    "verifier": "Qunyix",
+    "verification": "https://www.youtube.com/watch?v=ddcOwJQGTEU",
+    "showcase": "https://www.youtube.com/watch?v=YxluO72W9Mk",
+    "percentToQualify": 74,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=Q4WX6-20-Jk",
+          "percent": 100
+      },
+      {
+          "user": "Guac",
+          "link": "https://www.youtube.com/watch?v=YxluO72W9Mk",
+          "percent": 100
+      },
+      {
+          "user": "iKillmyself",
+          "link": "https://www.youtube.com/watch?v=mOCqROPSmcU",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=os_wyempZNQ",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=1otiZ78joZ0",
+          "percent": 100
+      },
+      {
+          "user": "PhilTV",
+          "link": "https://youtu.be/utOrJhEEWHk?si=kpBdvqwMfdUdcaGo",
+          "percent": 100
+      }
+    ]
+}
