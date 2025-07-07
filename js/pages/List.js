@@ -32,7 +32,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([err, rank, level], i) in list">
                         <td class="rank">
-                            <p v-if="rank != null" class="type-label-lg">#{{ rank }}</p>
+                            <p v-if="rank != null && rank <= 100" class="type-label-lg">#{{ rank }}</p>
                             <p v-else-if="rank == null && showUnverified" class="type-label-lg">&mdash;</p>
                         </td>
                         <td class="rank-image">
@@ -41,10 +41,26 @@ export default {
                             <img v-if="rank == 3" class="rank-trophy" src="assets/Top3Trophy.png" />
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i" v-if="rank != null">
+                            <button @click="selected = i" v-if="rank != null && rank <= 100">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
                             <button @click="selected = i" v-else-if="rank == null && showUnverified">
+                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+                <h2 class="list-separator"><i>Legacy List</i></h2>
+                <table class="list" v-if="list">
+                    <tr v-for="([err, rank, level], i) in list">
+                        <td class="rank">
+                            <p v-if="rank != null && rank > 100" class="type-label-lg">#{{ rank }}</p>
+                        </td>
+                        <td class="rank-image">
+                            <img v-if="rank == 101" class="rank-trophy" src="assets/NoTrophy.png" />
+                        </td>
+                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
+                            <button @click="selected = i" v-if="rank != null && rank > 100">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
                         </td>
