@@ -10,7 +10,11 @@
     "showcase": "https://www.youtube.com/watch?v=6ts_fDHsZcQ",
     "percentToQualify": 77,
     "records": [
-      
+      {
+          "user": "Guac",
+          "link": "https://youtu.be/R480GNAtIsg",
+          "percent": 100
+      }      
     ]
 }
 
