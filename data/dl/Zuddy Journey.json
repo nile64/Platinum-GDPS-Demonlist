@@ -1,0 +1,24 @@
+{
+    "id": 2060,
+    "name": "Zuddy Journey",
+    "description": "Traverse through a world of Zud. A very colourful, long demon with versatile gameplay covering every gamemode.",
+    "gdleveldescription": "Update 25/04/2025",
+    "author": "Svord",
+    "creators": ["Svord"],
+    "verifier": "Svord",
+    "verification": "https://www.youtube.com/watch?v=r6tv9e8rPpQ",
+    "showcase": "https://www.youtube.com/watch?v=r6tv9e8rPpQ",
+    "percentToQualify": 65,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/rUoJ3flT_Gw",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=O9zBSK2MErjZRRMo&t=493",
+          "percent": 100
+      }
+    ]
+}
