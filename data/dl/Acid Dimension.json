@@ -1,0 +1,34 @@
+{
+    "id": 2132,
+    "name": "Acid Dimension",
+    "description": "A short, bouncy level with various shades of green.",
+    "gdleveldescription": "A tough one",
+    "author": "Grackwiz",
+    "creators": ["Grackwiz"],
+    "verifier": "Grackwiz",
+    "verification": "https://youtu.be/oL0Oxl03aSc",
+    "showcase": "https://youtu.be/vQYljaHPis0",
+    "percentToQualify": 77,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/vQYljaHPis0",
+          "percent": 100
+      },
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/QBMC2WwSNU4",
+          "percent": 100
+      },
+      {
+          "user": "Prototype",
+          "link": "https://youtu.be/LiKOBQVJM4A",
+          "percent": 100
+      },
+      {
+          "user": "cornbread",
+          "link": "https://www.youtube.com/watch?v=mNrg5JTXzI4",
+          "percent": 100
+      }
+    ]
+}
