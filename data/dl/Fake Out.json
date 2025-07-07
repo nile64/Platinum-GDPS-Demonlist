@@ -1,0 +1,19 @@
+{
+    "id": 2930,
+    "name": "Fake Out",
+    "description": "A classic 1.9 styled memory level with; as the name implies; lots and lots of fake-outs.",
+    "gdleveldescription": "description of the level in the ps",
+    "author": "FrostyY",
+    "creators": ["FrostyY"],
+    "verifier": "FrostyY",
+    "verification": "https://youtu.be/PjFXPMfdw0M",
+    "showcase": "https://youtu.be/PjFXPMfdw0M",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Prototype",
+          "link": "https://youtu.be/QNT1wyAzuX4",
+          "percent": 100
+      }
+    ]
+}
