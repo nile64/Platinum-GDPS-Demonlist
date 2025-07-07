@@ -4,7 +4,7 @@
     "description": "Warning: Janky Dimmy gameplay ahead!⚠️",
     "gdleveldescription": "green.",
     "author": "Dimmy",
-    "creators": [],
+    "creators": ["Dimmy"],
     "verifier": "Taraco",
     "verification": "https://www.youtube.com/watch?v=3Iqk9agXOOk",
     "showcase": "https://www.youtube.com/watch?v=3Iqk9agXOOk",
@@ -15,12 +15,12 @@
           "link": "https://discord.com/channels/1254752525572374629/1300171654835470377/1345108281907089409",
           "percent": 100
       },
-    {
+      {
           "user": "Raezori",
           "link": "https://www.youtube.com/watch?v=TZfqXl9ck2Y",
           "percent": 100
       },
-    {
+      {
           "user": "Bluebuster",
           "link": "https://youtu.be/JcvYv2_P4K0",
           "percent": 100
