@@ -1,0 +1,24 @@
+{
+    "id": 1489,
+    "name": "Cherry Camp",
+    "description": "A plain, hot pink, fast paced level which is primarily carried by its waves.",
+    "gdleveldescription": "Cherry Camp part 1",
+    "author": "Wicked",
+    "creators": ["Wicked"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/PuxOSVGTmMU",
+    "showcase": "https://youtu.be/PuxOSVGTmMU",
+    "percentToQualify": 69,
+    "records": [
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/1otiZ78joZ0?si=jCva5oALMWl_Wv2r&t=656",
+          "percent": 100
+      },
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/AVZbQj0JQ74",
+          "percent": 100
+      }
+    ]
+}
