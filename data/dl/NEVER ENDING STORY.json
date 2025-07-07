@@ -1,0 +1,19 @@
+{
+    "id": 2555,
+    "name": "NEVER ENDING STORY",
+    "description": "A dramatic 1.9 epic, with nearly 3 minutes of gameplay that constantly changes pace.",
+    "gdleveldescription": "long level",
+    "author": "tr4visXD",
+    "creators": ["tr4visXD"],
+    "verifier": "tr4visXD",
+    "verification": "https://www.youtube.com/watch?v=8BZ9RY9aa0I",
+    "showcase": "https://www.youtube.com/watch?v=8BZ9RY9aa0I",
+    "percentToQualify": 74,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/j6y9RargKX0",
+          "percent": 100
+      }
+    ]
+}
