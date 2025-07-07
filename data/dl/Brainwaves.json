@@ -1,0 +1,49 @@
+{
+    "id": 1294,
+    "name": "Brainwaves",
+    "description": "A neon green, cranial Nine Circles demon.",
+    "gdleveldescription": "First level to use Brainwaves",
+    "author": "SwordGamer969",
+    "creators": ["SwordGamer969"],
+    "verifier": "SwordGamer969",
+    "verification": "https://www.youtube.com/watch?v=2VyvI5_vjNk",
+    "showcase": "https://www.youtube.com/watch?v=2VyvI5_vjNk",
+    "percentToQualify": 70,
+    "records": [
+      {
+          "user": "NoInternet",
+          "link": "https://www.youtube.com/watch?v=LK6mCIHrTC4",
+          "percent": 100
+      },
+      {
+          "user": "ToxicHG",
+          "link": "https://www.youtube.com/watch?v=33kS3SXXvT0",
+          "percent": 100
+      },
+      {
+          "user": "Svord",
+          "link": "https://www.youtube.com/watch?v=HKUxTvSJrC8",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=OK6vFMfzzAQ",
+          "percent": 100
+      },
+      {
+          "user": "Ayueshi",
+          "link": "https://www.youtube.com/watch?v=nVIQ66QckgU",
+          "percent": 100
+      },
+      {
+          "user": "Guac",
+          "link": "https://www.youtube.com/watch?v=Iukci0DOisQ",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=Q4WX6-20-Jk",
+          "percent": 100
+      }
+    ]
+}
