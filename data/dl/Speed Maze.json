@@ -1,0 +1,15 @@
+{
+    "id": 2901,
+    "name": "Speed Maze",
+    "description": "A unique demon where you have to figure out the correct speed portals to hit to pass each section.",
+    "gdleveldescription": "Find the way",
+    "author": "Svord",
+    "creators": ["Svord"],
+    "verifier": "Svord",
+    "verification": "",
+    "showcase": "",
+    "percentToQualify": 65,
+    "records": [
+
+    ]
+}
