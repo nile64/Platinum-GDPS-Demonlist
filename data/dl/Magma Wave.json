@@ -10,6 +10,10 @@
     "showcase": "https://www.youtube.com/watch?v=6nHgWmvmyw4&t=1146s",
     "percentToQualify": 71,
     "records": [
-
+      {
+          "user": "2rus",
+          "link": "https://youtu.be/TGWIw_kM4bg",
+          "percent": 100
+      }
     ]
 }
