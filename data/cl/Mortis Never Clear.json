@@ -1,0 +1,24 @@
+{
+    "id": 595,
+    "name": "Mortis Never Clear",
+    "description": "A flashy, black and white wave consistency challenge.",
+    "gdleveldescription": "VERIFIED",
+    "author": "Sightnado",
+    "creators": ["Sightnado"],
+    "verifier": "Sightnado",
+    "verification": "https://youtu.be/r7V9O4486LE",
+    "showcase": "https://youtu.be/r7V9O4486LE", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/KNvUAnvcGB8",
+          "percent": 100
+      },
+      {
+          "user": "OtherChris",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1301700135436288020",
+          "percent": 100
+      }
+    ]
+}
