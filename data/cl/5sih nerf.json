@@ -1,0 +1,19 @@
+{
+    "id": 2659,
+    "name": "5sih nerf",
+    "description": "A wave consistency challenge with both normal and mini wave, followed by a ridiculous mini wave spam corridor.",
+    "gdleveldescription": "go on and verify this",
+    "author": "DmitryYazov",
+    "creators": ["DmitryYazov"],
+    "verifier": "mmo",
+    "verification": "https://medal.tv/games/requested/clips/kpcOiCwDtKkhWMd38",
+    "showcase": "https://youtu.be/IZvXf-FY0Tk", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/IZvXf-FY0Tk",
+          "percent": 100
+      }
+    ]
+}
