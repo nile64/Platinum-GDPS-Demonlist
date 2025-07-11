@@ -1,0 +1,19 @@
+{
+    "id": 918,
+    "name": "Moving forward wave",
+    "description": "A swift wave challenge with an awkward use of slopes.",
+    "gdleveldescription": "Worst Challenge in Platinum GDPS Ever. Normally Im consistent at this wave but 1.9 physics are terrible",
+    "author": "Errorpixel",
+    "creators": ["Errorpixel"],
+    "verifier": "Errorpixel",
+    "verification": "",
+    "showcase": "https://discord.com/channels/1254752525572374629/1280409338405457940/1302042474843209856", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "OtherChris",
+          "link": "https://www.youtube.com/watch?v=vIVOxAwzugs",
+          "percent": 100
+      }
+    ]
+}
