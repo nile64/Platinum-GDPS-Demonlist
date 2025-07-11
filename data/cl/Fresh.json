@@ -1,0 +1,24 @@
+{
+    "id": 910,
+    "name": "Fresh",
+    "description": "A faster version of Gp0's challenge Groovy.",
+    "gdleveldescription": "verified in 3387 attempts GGGGGGGG",
+    "author": "Gp0",
+    "creators": ["Gp0"],
+    "verifier": "Gp0",
+    "verification": "https://www.youtube.com/watch?v=2ZsS1zUAYYI",
+    "showcase": "https://www.youtube.com/watch?v=2ZsS1zUAYYI", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/j08N_tXo3AM",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/LuY4HntOQ9k",
+          "percent": 100
+      }
+    ]
+}
