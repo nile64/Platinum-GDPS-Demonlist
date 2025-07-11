@@ -1,0 +1,29 @@
+{
+    "id": 705,
+    "name": "otherchris challenge",
+    "description": "A brutal wave challenge with fast clicks and lots of distracting orbs in your path.",
+    "gdleveldescription": "I CHALLENGE TABBI AND christopher mangrove",
+    "author": "seregiusz",
+    "creators": ["seregiusz"],
+    "verifier": "seregiusz",
+    "verification": "https://discord.com/channels/1254752525572374629/1254779212103942266/1285386475260612640",
+    "showcase": "https://youtu.be/l4YNeQPtnpQ", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/l4YNeQPtnpQ",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/6w5tPwFH4PQ",
+          "percent": 100
+      }
+    ]
+}
