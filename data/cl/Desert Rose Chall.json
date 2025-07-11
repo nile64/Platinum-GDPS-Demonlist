@@ -1,0 +1,24 @@
+{
+    "id": 379,
+    "name": "Desert Rose Chall",
+    "description": "A climactic wave challenge with Sakupen Hell-esque gameplay..",
+    "gdleveldescription": "consider this an excuse just to make SH gameplay lmao",
+    "author": "GekkoukanFancy",
+    "creators": ["GekkoukanFancy"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/95lOW1kN7kA",
+    "showcase": "https://youtu.be/95lOW1kN7kA", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/iY17fLrFwTJXJsMC6?invite=cr-MSw1R24sMTk2MjQyNDE4LA",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      }
+    ]
+}
