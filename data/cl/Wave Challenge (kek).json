@@ -1,0 +1,19 @@
+{
+    "id": 109,
+    "name": "Wave Challenge",
+    "description": "A fun and bouncy wave challenge by kek, and one of the oldest on the server.",
+    "gdleveldescription": "",
+    "author": "keksia",
+    "creators": ["keksia"],
+    "verifier": "keksia",
+    "verification": "https://www.youtube.com/watch?v=EJCH9jA_dtc",
+    "showcase": "https://www.youtube.com/watch?v=EJCH9jA_dtc", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/FUe2-f8D1w8",
+          "percent": 100
+      }
+    ]
+}
