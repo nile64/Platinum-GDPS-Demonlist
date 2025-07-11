@@ -1,0 +1,19 @@
+{
+    "id": 277,
+    "name": "Wave Challenge",
+    "description": "An energetic and classic wave challenge with a brutal use of slopes.",
+    "gdleveldescription": "hardest challenge of platinum gdps?",
+    "author": "greenhills",
+    "creators": ["greenhills"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/Aobo88Y78Qs",
+    "showcase": "https://youtu.be/Aobo88Y78Qs", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      }
+    ]
+}
