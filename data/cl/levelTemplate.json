@@ -1,6 +1,6 @@
 {
     "id": 123,
-    "name": "challenge Level Name",
+    "name": "Challenge Name",
     "description": "no challenges rn. we should probably make a \"challenge list submission\" forum. idfk ask zud tho.",
     "gdleveldescription": "description of the level in the ps",
     "author": "publisher",
@@ -8,7 +8,7 @@
     "verifier": "verifier",
     "verification": "https://www.youtube.com/watch?v=vIVOxAwzugs",
     "showcase": "https://www.youtube.com/watch?v=As3TFoWI0xY", 
-    "percentToQualify": 68,
+    "percentToQualify": 100,
     "records": [
       {
           "user": "record holder",
