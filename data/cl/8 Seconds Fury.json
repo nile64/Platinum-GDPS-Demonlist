@@ -1,0 +1,19 @@
+{
+    "id": 893,
+    "name": "8 Seconds Fury",
+    "description": "A rainbow consistency challenge featuring a variety of gamemodes. Sort of click sync.",
+    "gdleveldescription": "",
+    "author": "Sightnado",
+    "creators": ["Sightnado"],
+    "verifier": "Sightnado",
+    "verification": "https://youtu.be/3_1oxV27quY",
+    "showcase": "https://youtu.be/TEvdtTMIF6c", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/TEvdtTMIF6c",
+          "percent": 100
+      }
+    ]
+}
