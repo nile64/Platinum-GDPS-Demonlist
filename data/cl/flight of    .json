@@ -1,0 +1,29 @@
+{
+    "id": 704,
+    "name": "flight of    ",
+    "description": "An even tighter straight fly challenge, inspired by flight of tabbi.",
+    "gdleveldescription": "",
+    "author": "OtherChris",
+    "creators": ["OtherChris"],
+    "verifier": "OtherChris",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1285390484813906033",
+    "showcase": "https://youtu.be/BUO2Co5q1KY", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/BUO2Co5q1KY",
+          "percent": 100
+      },
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/kpiXvl0AhpO2YYjwd",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/PlXspCXsCys",
+          "percent": 100
+      }
+    ]
+}
