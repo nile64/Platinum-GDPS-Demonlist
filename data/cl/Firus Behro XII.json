@@ -1,0 +1,24 @@
+{
+    "id": 587,
+    "name": "Firus Behro XII",
+    "description": "A wave and ship challenge featuring an asymmetrical dual in the middle.",
+    "gdleveldescription": "For the",
+    "author": "sierraze",
+    "creators": ["sierraze"],
+    "verifier": "sierraze",
+    "verification": "https://youtu.be/tv5EebX2bFc",
+    "showcase": "https://youtu.be/tv5EebX2bFc", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/tv5EebX2bFc",
+          "percent": 100
+      },
+      {
+          "user": "mmo",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1300308333865078795",
+          "percent": 100
+      }
+    ]
+}
