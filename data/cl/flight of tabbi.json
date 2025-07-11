@@ -1,0 +1,24 @@
+{
+    "id": 513,
+    "name": "flight of tabbi",
+    "description": "A tight straight fly challenge with two corridors splitting the level in half, and bizarre decoration to complement it.",
+    "gdleveldescription": "Attempts past first corridor, 21. Gave up at exactly 1.5k attempts. OPEN VERIFICATION CHALLENGE.",
+    "author": "Tabbi",
+    "creators": ["Tabbi"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/9JPXur2Mi3U",
+    "showcase": "https://youtu.be/9JPXur2Mi3U", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/ogi2sXTNdWc",
+          "percent": 100
+      },
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/ky0r5nB8dyeiAymEA",
+          "percent": 100
+      }
+    ]
+}
