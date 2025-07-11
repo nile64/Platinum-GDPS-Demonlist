@@ -1,0 +1,24 @@
+{
+    "id": 1169,
+    "name": "iI Platinum Ship Ii",
+    "description": "A segment from the impossible level Platinum Dreams, featuring the winding, gear-filled ship section.",
+    "gdleveldescription": "ship from Platinum Dreams",
+    "author": "OtherChris",
+    "creators": ["Taraco"],
+    "verifier": "OtherChris",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1301670076411547759",
+    "showcase": "https://youtu.be/YQk5HUmAu6k", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "seregiusz",
+          "link": "https://youtu.be/ysWh5uTOsvk",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/YQk5HUmAu6k",
+          "percent": 100
+      }
+    ]
+}
