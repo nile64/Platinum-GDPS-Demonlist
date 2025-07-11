@@ -1,0 +1,19 @@
+{
+    "id": 2203,
+    "name": "grimace circles waeve i think",
+    "description": "A few tight wave clicks. It's only a few.",
+    "gdleveldescription": "",
+    "author": "Guac",
+    "creators": ["Guac"],
+    "verifier": "Guac",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1350237565030105200",
+    "showcase": "https://youtu.be/XA9VRfmD240", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/XA9VRfmD240",
+          "percent": 100
+      }
+    ]
+}
