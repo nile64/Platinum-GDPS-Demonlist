@@ -1,0 +1,24 @@
+{
+    "id": 608,
+    "name": "The Blade",
+    "description": "A fast wave consistency challenge with long pillars of spikes.",
+    "gdleveldescription": "i hope you are ready - me 5 months ago on mobile gd",
+    "author": "greenhills",
+    "creators": ["greenhills"],
+    "verifier": "greenhills",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1281072574557847604",
+    "showcase": "https://youtu.be/jxTpy4BjToU", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/jxTpy4BjToU",
+          "percent": 100
+      },
+      {
+          "user": "mmo",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1386551111862849658",
+          "percent": 100
+      }
+    ]
+}
