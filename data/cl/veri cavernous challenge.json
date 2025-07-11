@@ -1,0 +1,19 @@
+{
+    "id": 2198,
+    "name": "veri cavernous challenge",
+    "description": "Platinum's brutal take on VSC.",
+    "gdleveldescription": "description of the level in the ps",
+    "author": "Guac",
+    "creators": ["Guac"],
+    "verifier": "Guac",
+    "verification": "https://www.youtube.com/watch?v=gZF65rzkRuQ",
+    "showcase": "https://www.youtube.com/watch?v=gZF65rzkRuQ", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=56GsGXVcSUo",
+          "percent": 100
+      }
+    ]
+}
