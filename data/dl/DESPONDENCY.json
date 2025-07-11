@@ -10,6 +10,10 @@
     "showcase": "https://youtu.be/sLhzVld5d8I",
     "percentToQualify": 6,
     "records": [
-
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/q2VcWA7wV10",
+          "percent": 100
+      }
     ]
 }
