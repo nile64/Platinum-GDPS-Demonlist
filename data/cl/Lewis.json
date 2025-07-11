@@ -1,0 +1,29 @@
+{
+    "id": 930,
+    "name": "Lewis",
+    "description": "A blind challenge with frame perfect invisible ball clicks, and a tough slow mini wave for nerve control.",
+    "gdleveldescription": "Made by marc. Good luck",
+    "author": "Tabbi",
+    "creators": ["therizzler"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/Jl-ZbezT1yA",
+    "showcase": "https://youtu.be/Jl-ZbezT1yA", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/iYoLtjQGfIigBnRa1?invite=cr-MSx4cTEsMTk2MjQyNDE4LA",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M?si=xeu64VP76wx0EATt&t=27",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/8nqhMYgucLk",
+          "percent": 100
+      }
+    ]
+}
