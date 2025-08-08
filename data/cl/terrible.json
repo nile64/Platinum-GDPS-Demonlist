@@ -1,0 +1,29 @@
+{
+    "id": 1073,
+    "name": "terrible",
+    "description": "A layout wave challenge, with precise but merciful gaps.",
+    "gdleveldescription": "wave",
+    "author": "mmo",
+    "creators": ["mmo"],
+    "verifier": "mmo",
+    "verification": "https://medal.tv/games/requested/clips/iX766vsYNmeCe_ffe?invite=cr-MSx6c0QsMTk2MjQyNDE4LA",
+    "showcase": "https://youtu.be/fE7yx5HIrm4", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/fE7yx5HIrm4",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/eB8YIQQ0EoQ",
+          "percent": 100
+      }
+    ]
+}
