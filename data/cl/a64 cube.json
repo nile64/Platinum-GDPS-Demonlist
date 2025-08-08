@@ -1,0 +1,19 @@
+{
+    "id": 1064,
+    "name": "a64 cube",
+    "description": "A 1.0 styled cube timing challenge, with a number of rough chokepoints.",
+    "gdleveldescription": "Would you be able to withstand a64s challenges 1-5",
+    "author": "a64",
+    "creators": ["a64"],
+    "verifier": "mmo",
+    "verification": "https://medal.tv/games/requested/clips/iY3I9ucMQDRlq_2KL?invite=cr-MSw2WFMsMTk2MjQyNDE4LA",
+    "showcase": "https://youtu.be/3d1p90iFa-w", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/3d1p90iFa-w",
+          "percent": 100
+      }
+    ]
+}
