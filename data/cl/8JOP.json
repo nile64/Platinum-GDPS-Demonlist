@@ -1,0 +1,39 @@
+{
+    "id": 806,
+    "name": "8JOP",
+    "description": "A Final Fantasy inspired challenge with cube frame perfects. Stands for 8 Jumps Of Platinum.",
+    "gdleveldescription": "8 Jumps of Platinum...",
+    "author": "zudd",
+    "creators": ["zudd"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/_bUWqGq3IXo",
+    "showcase": "https://youtu.be/_bUWqGq3IXo", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "OtherChris",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1301717383936872468",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      },
+      {
+          "user": "seregiusz",
+          "link": "https://youtu.be/ysWh5uTOsvk",
+          "percent": 100
+      },
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/kpc7kWHUf86PC9RK3?invite=cr-MSxDeXAsMTk2MjQyNDE4",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/525NkxUsgzg",
+          "percent": 100
+      }
+    ]
+}
