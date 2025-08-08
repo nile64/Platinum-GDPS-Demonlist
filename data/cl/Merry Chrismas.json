@@ -1,0 +1,24 @@
+{
+    "id": 721,
+    "name": "Merry Chrismas",
+    "description": "A short, highly precise challenge, with brutal spams surrounding an awkward transition into a straight fly. Spam decoration to distract you. Built for OtherChris, who was the level's first victor.",
+    "gdleveldescription": "879 attempts cuz i had to nerf it lolol CHRISMAS",
+    "author": "Tabbi",
+    "creators": ["Tabbi"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/7HNO6o85kKw",
+    "showcase": "https://youtu.be/7HNO6o85kKw", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "OtherChris",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1301678896491794533",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/mVSIHKw28yI",
+          "percent": 100
+      }
+    ]
+}
