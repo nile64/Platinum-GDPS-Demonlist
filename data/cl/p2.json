@@ -1,0 +1,19 @@
+{
+    "id": 2570,
+    "name": "p2",
+    "description": "A sequel to p by the same creator, with much of the same chicanery.",
+    "gdleveldescription": "ok2",
+    "author": "Raezori",
+    "creators": ["Raezori"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/1Hle5DyUhmw",
+    "showcase": "https://youtu.be/1Hle5DyUhmw", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "mmo",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1386135521071464570",
+          "percent": 100
+      }
+    ]
+}
