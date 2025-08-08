@@ -1,0 +1,15 @@
+{
+    "id": 3077,
+    "name": "Laser Trial",
+    "description": "A straight fly challenge with straight line hitboxes that leave no margin for error.",
+    "gdleveldescription": "Funny straight fly challenge lol",
+    "author": "Raezori",
+    "creators": ["Raezori"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/aETAN2kjipk",
+    "showcase": "https://youtu.be/aETAN2kjipk", 
+    "percentToQualify": 100,
+    "records": [
+
+    ]
+}
