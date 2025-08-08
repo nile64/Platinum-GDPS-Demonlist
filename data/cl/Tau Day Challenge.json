@@ -1,0 +1,15 @@
+{
+    "id": 2854,
+    "name": "Tau Day Challenge",
+    "description": "A fun, straightforward wave consistency challenge, dedicated to the alternative to Pi Day you've probably never heard of.",
+    "gdleveldescription": "One spike for each digit of the first 29 digits of Tau Day!",
+    "author": "2rus",
+    "creators": ["2rus"],
+    "verifier": "2rus",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1388381565490303037",
+    "showcase": "https://discord.com/channels/1254752525572374629/1280409338405457940/1388381565490303037", 
+    "percentToQualify": 100,
+    "records": [
+
+    ]
+}
