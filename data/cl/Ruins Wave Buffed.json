@@ -1,0 +1,24 @@
+{
+    "id": 1037,
+    "name": "Ruins Wave Buffed",
+    "description": "An Undertale styled challenge, of a buffed segment from the unrated top 1 Ruins.",
+    "gdleveldescription": "rebeat in 490",
+    "author": "Tucosifo",
+    "creators": ["Tucosifo"],
+    "verifier": "Tucosifo",
+    "verification": "https://youtu.be/K8ewOvLxGOg",
+    "showcase": "https://youtu.be/K8ewOvLxGOg", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gp0",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1297740339188207626",
+          "percent": 100
+      },
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/iY0HxEboAUvrzSnEN?invite=cr-MSxXbjQsMTk2MjQyNDE4LA",
+          "percent": 100
+      }
+    ]
+}
