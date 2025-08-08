@@ -144,7 +144,8 @@ export default {
                     <h2> List Rules </h2>
                     <p><i>read this now</i></p>
                     <h3> Rules </h3>
-                    <p>Your record must not be played at over 360 fps. Your FPS must be shown.</p>
+                    <p>Levels must be verified on NO LOWER than 60 fps, and NO HIGHER than 360 fps. Your FPS must be shown.</p>
+                    <p>Levels must be possible on 60 fps.</p>
                     <p>Audible clicks are <b><i>required.</i></b> It does not matter if you have a CPS counter.</p>
                     <p>Your previous attempt/entry of the level, full completion, endscreen, and Cheat Indicator must be shown.</p>
                     <p>No secret ways or bug routes allowed.</p>
