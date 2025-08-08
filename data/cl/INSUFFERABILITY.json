@@ -1,0 +1,24 @@
+{
+    "id": 803,
+    "name": "INSUFFERABILITY",
+    "description": "A black and white challenge that forces as much difficulty out of its short runtime as possible, capping it off with a blind frame perfect cube timing.",
+    "gdleveldescription": "INSUFFERABLE. open verification, more likely impossible",
+    "author": "DmitryYazov",
+    "creators": ["DmitryYazov"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/hWbgo4Rzfow",
+    "showcase": "https://youtu.be/hWbgo4Rzfow", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/gRcgqJv9iJM",
+          "percent": 100
+      }
+    ]
+}
