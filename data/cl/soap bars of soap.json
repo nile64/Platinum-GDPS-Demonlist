@@ -1,0 +1,24 @@
+{
+    "id": 1134,
+    "name": "soap bars of soap",
+    "description": "A layout mini wave challenge that evolves from tight clicks, to a spam corridor, to controlled spam through a mess of spikes.",
+    "gdleveldescription": "yeas",
+    "author": "OtherChris",
+    "creators": ["OtherChris"],
+    "verifier": "OtherChris",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1300905846363918457",
+    "showcase": "https://youtu.be/dvsT-FOZL4g", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/dvsT-FOZL4g",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      }
+    ]
+}
