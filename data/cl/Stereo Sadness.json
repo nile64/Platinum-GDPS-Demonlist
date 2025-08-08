@@ -1,0 +1,24 @@
+{
+    "id": 912,
+    "name": "Stereo Sadness",
+    "description": "A mini wave spam inside a... slope monster?",
+    "gdleveldescription": "",
+    "author": "sierraze",
+    "creators": ["sierraze"],
+    "verifier": "Tabbi",
+    "verification": "https://www.youtube.com/watch?v=ekEr_oFjmpQ",
+    "showcase": "https://www.youtube.com/watch?v=ekEr_oFjmpQ", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "OtherChris",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1301726942814273548",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      }
+    ]
+}
