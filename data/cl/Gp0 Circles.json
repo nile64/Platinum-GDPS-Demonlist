@@ -1,0 +1,24 @@
+{
+    "id": 940,
+    "name": "Gp0 Circles",
+    "description": "A slow mini wave consistency/spam challenge with Nine Circles deco.",
+    "gdleveldescription": "",
+    "author": "sierraze",
+    "creators": ["sierraze"],
+    "verifier": "Gp0",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1294868333761527919",
+    "showcase": "https://youtu.be/Q2nTvFlJhnw", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/Q2nTvFlJhnw",
+          "percent": 100
+      },
+      {
+          "user": "OtherChris",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1301697915995029636",
+          "percent": 100
+      }
+    ]
+}
