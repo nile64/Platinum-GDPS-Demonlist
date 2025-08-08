@@ -1,0 +1,24 @@
+{
+    "id": 1109,
+    "name": "flight of mmo",
+    "description": "Two straight fly corridors that gradually get tighter; inspired by Flight of Hell.",
+    "gdleveldescription": "",
+    "author": "mmo",
+    "creators": ["mmo"],
+    "verifier": "mmo",
+    "verification": "https://medal.tv/games/requested/clips/iY224WEn5KwP95Fby?invite=cr-MSx1OGMsMTk2MjQyNDE4LA",
+    "showcase": "https://www.youtube.com/watch?v=iIqZtc44V80", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "seregiusz",
+          "link": "https://www.youtube.com/watch?v=ysWh5uTOsvk",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=iIqZtc44V80",
+          "percent": 100
+      }
+    ]
+}
