@@ -1,0 +1,19 @@
+{
+    "id": 2184,
+    "name": "3 seecond fury",
+    "description": "Exactly what it says on the tin. Three seconds of 3x speed wave hell.",
+    "gdleveldescription": "wave spam HELL",
+    "author": "mmo",
+    "creators": ["mmo"],
+    "verifier": "mmo",
+    "verification": "https://discord.com/channels/1254752525572374629/1280409338405457940/1348797368488820867",
+    "showcase": "https://discord.com/channels/1254752525572374629/1280409338405457940/1348797368488820867", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=HEwZWRkHGQU",
+          "percent": 100
+      }
+    ]
+}
