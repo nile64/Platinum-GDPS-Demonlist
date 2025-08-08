@@ -1,0 +1,34 @@
+{
+    "id": 948,
+    "name": "chairoldhasdied",
+    "description": "A mini wave spam challenge, carried more by the frame perfect cube timing at the end.",
+    "gdleveldescription": "rip my boy chairy old",
+    "author": "Tucosifo",
+    "creators": ["Tucosifo"],
+    "verifier": "Tucosifo",
+    "verification": "https://www.youtube.com/watch?v=200xA-JdjjU",
+    "showcase": "https://www.youtube.com/watch?v=200xA-JdjjU", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gp0",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1295132796754595860",
+          "percent": 100
+      },
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/Q2nTvFlJhnw",
+          "percent": 100
+      },
+      {
+          "user": "OtherChris",
+          "link": "https://discord.com/channels/1254752525572374629/1280409338405457940/1301696693410205786",
+          "percent": 100
+      },
+      {
+          "user": "realdanish",
+          "link": "https://youtu.be/BepmHGhyD8M",
+          "percent": 100
+      }
+    ]
+}
