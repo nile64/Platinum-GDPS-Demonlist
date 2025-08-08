@@ -1,0 +1,19 @@
+{
+    "id": 2569,
+    "name": "p",
+    "description": "A slow, upward mini wave spam, straight out of hell.",
+    "gdleveldescription": "ok",
+    "author": "Raezori",
+    "creators": ["Raezori"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/2gdQrzmhjf8",
+    "showcase": "https://youtu.be/2gdQrzmhjf8", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/kxxtvslfAEy7Eq2P4",
+          "percent": 100
+      }
+    ]
+}
