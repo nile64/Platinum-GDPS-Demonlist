@@ -1,0 +1,19 @@
+{
+    "id": 523,
+    "name": "Groovy",
+    "description": "A colourful wave challenge that alternates between spike consistency corridors, and tight slope gaps.",
+    "gdleveldescription": "epic challenge level verified in 616 attempts",
+    "author": "Gp0",
+    "creators": ["Gp0"],
+    "verifier": "Gp0",
+    "verification": "https://youtu.be/YjIyNKU8HGo",
+    "showcase": "https://youtu.be/YjIyNKU8HGo", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tabbi",
+          "link": "https://youtu.be/TEvdtTMIF6c",
+          "percent": 100
+      }
+    ]
+}
