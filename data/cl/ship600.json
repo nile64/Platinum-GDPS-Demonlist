@@ -1,0 +1,15 @@
+{
+    "id": 3330,
+    "name": "ship600",
+    "description": "A pale green-yellow, energetic, tight ship challenge with four corridors to fly through.",
+    "gdleveldescription": "description of the level in the ps",
+    "author": "600",
+    "creators": ["600"],
+    "verifier": "600",
+    "verification": "https://youtu.be/mlT7N1DSi7s",
+    "showcase": "https://youtu.be/mlT7N1DSi7s", 
+    "percentToQualify": 100,
+    "records": [
+
+    ]
+}
