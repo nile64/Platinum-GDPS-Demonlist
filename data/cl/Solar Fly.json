@@ -1,0 +1,15 @@
+{
+    "id": 3334,
+    "name": "Solar Fly",
+    "description": "A colourful, precise ship challenge, using a segment from Solar Storm.",
+    "gdleveldescription": "buffed solar storm 59-71",
+    "author": "Sightnado",
+    "creators": ["Sightnado"],
+    "verifier": "Sightnado",
+    "verification": "https://youtu.be/2hzd6jAUJS4",
+    "showcase": "https://youtu.be/2hzd6jAUJS4", 
+    "percentToQualify": 100,
+    "records": [
+
+    ]
+}
