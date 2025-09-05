@@ -1,0 +1,15 @@
+{
+    "id": 3338,
+    "name": "ZeTa",
+    "description": "A slow, predominantly timing-based challenge that utilises every gamemode.",
+    "gdleveldescription": "768 attempts to verify, made by Asus",
+    "author": "Raezori",
+    "creators": ["GWAsus"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/08ppm05ZJho",
+    "showcase": "https://youtu.be/08ppm05ZJho", 
+    "percentToQualify": 100,
+    "records": [
+
+    ]
+}
