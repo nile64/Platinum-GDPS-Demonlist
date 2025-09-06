@@ -1,0 +1,19 @@
+{
+    "id": 3339,
+    "name": "bub fix circles",
+    "description": "A tight, 1x speed, 5-block wave corridor, with dark colours making it hard to see.",
+    "gdleveldescription": "I lied thats not what the level is",
+    "author": "Sightnado",
+    "creators": ["Sightnado"],
+    "verifier": "Sightnado",
+    "verification": "https://youtu.be/SIhS8XFm2PM",
+    "showcase": "https://youtu.be/SIhS8XFm2PM", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Tucosifo",
+          "link": "https://discord.com/channels/1254752525572374629/1413320753193160824/1413697369861787658",
+          "percent": 100
+      }
+    ]
+}
