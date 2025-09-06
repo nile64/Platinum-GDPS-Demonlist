@@ -10,6 +10,10 @@
     "showcase": "https://youtu.be/mlT7N1DSi7s", 
     "percentToQualify": 100,
     "records": [
-
+      {
+          "user": "Tucosifo",
+          "link": "https://youtu.be/7kosengqJPE",
+          "percent": 100
+      }
     ]
 }
