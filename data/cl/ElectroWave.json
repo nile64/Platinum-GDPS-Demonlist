@@ -1,0 +1,19 @@
+{
+    "id": 3350,
+    "name": "ElectroWave",
+    "description": "A 0.5x speed wave challenge that uses a ton of invisible objects.",
+    "gdleveldescription": "technically a 1.4 level l 371 attempts",
+    "author": "cornbread",
+    "creators": ["cornbread"],
+    "verifier": "cornbread",
+    "verification": "https://www.youtube.com/watch?v=-Y6DP_Q-fJ8",
+    "showcase": "https://www.youtube.com/watch?v=-Y6DP_Q-fJ8", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/Ujbm6n0j1fs",
+          "percent": 100
+      }
+    ]
+}
