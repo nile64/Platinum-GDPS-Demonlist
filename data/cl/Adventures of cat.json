@@ -10,6 +10,10 @@
     "showcase": "https://medal.tv/games/requested/clips/kpl9w2jdncr9UBLeV", 
     "percentToQualify": 100,
     "records": [
-
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=PxQ4CTXMaSs",
+          "percent": 100
+      }
     ]
 }
