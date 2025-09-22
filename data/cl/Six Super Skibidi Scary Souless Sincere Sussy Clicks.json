@@ -10,6 +10,10 @@
     "showcase": "https://youtu.be/uxNPMYulr0U", 
     "percentToQualify": 100,
     "records": [
-
+      {
+          "user": "Olivetrunks",
+          "link": "https://www.youtube.com/watch?v=T8RS2gy5VcA",
+          "percent": 100
+      }
     ]
 }
