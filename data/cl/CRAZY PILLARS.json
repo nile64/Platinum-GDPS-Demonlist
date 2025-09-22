@@ -1,0 +1,19 @@
+{
+    "id": 3448,
+    "name": "CRAZY PILLARS",
+    "description": "This level tests your wave skill in both precision and speed, with tight drawn out saw gaps followed by a ever-tightening wave corridor.",
+    "gdleveldescription": "if u barely touch the saw you die, since robtop has autism and made the hitbox the whole saw. so good luck",
+    "author": "Memesbro",
+    "creators": ["Memesbro"],
+    "verifier": "Memesbro",
+    "verification": "https://youtu.be/9aTYWgDl83A",
+    "showcase": "https://youtu.be/9aTYWgDl83A", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Skellity",
+          "link": "https://youtu.be/4A_Xk6C0wbo",
+          "percent": 100
+      }
+    ]
+}
