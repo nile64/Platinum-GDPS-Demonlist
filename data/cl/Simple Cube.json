@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "name": "Simple Cube",
+    "description": "One of the oldest Platinum levels, this is a simple cube challenge with timings.",
+    "gdleveldescription": "Been a while since i used this editor and its weird, but heres a little challenge ig",
+    "author": "BunkerDash",
+    "creators": ["BunkerDash"],
+    "verifier": "Tucosifo",
+    "verification": "https://youtu.be/MmIic-5olgY",
+    "showcase": "https://youtu.be/MmIic-5olgY", 
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Sightnado",
+          "link": "https://youtu.be/EPt-vtsdeLk",
+          "percent": 100
+      }
+    ]
+}
