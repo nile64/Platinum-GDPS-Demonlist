@@ -1,0 +1,24 @@
+{
+    "id": 3351,
+    "name": "NPI Incarnate",
+    "description": "The final installment in the notorious Nine Pink series; this time, a beautiful, glowy Nine Circles level.",
+    "gdleveldescription": "remake of a remake lol",
+    "author": "d6cd",
+    "creators": ["zhenya", "flyingduck91", "d6cd"],
+    "verifier": "d6cd",
+    "verification": "https://youtu.be/LcxtmR9VQIE",
+    "showcase": "https://youtu.be/LcxtmR9VQIE",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Sightnado",
+          "link": "https://www.youtube.com/watch?v=Dh3TpFEhT3w",
+          "percent": 100
+      },
+      {
+          "user": "ZorpiKGMD",
+          "link": "https://youtu.be/ybWgvBEf2SE",
+          "percent": 100
+      }
+    ]
+}
