@@ -19,6 +19,11 @@
           "user": "Guac",
           "link": "https://www.youtube.com/watch?v=gi3EklBKiaw",
           "percent": 100
+      },
+      {
+          "user": "finn",
+          "link": "https://youtu.be/KQIALRMcTns",
+          "percent": 100
       }
     ]
 }
