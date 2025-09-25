@@ -1,0 +1,29 @@
+{
+    "id": 3317,
+    "name": "Sweet Pain",
+    "description": "A calm and slow level, using the Congregation song, that loves its duals and ends with a precise wave section.",
+    "gdleveldescription": "EMPHASIS ON PAIN, Verified by Quasar",
+    "author": "Memesbro",
+    "creators": ["Memesbro"],
+    "verifier": "GreenQuasar",
+    "verification": "https://www.youtube.com/watch?v=wsek_7GaQXQ",
+    "showcase": "https://www.youtube.com/watch?v=wsek_7GaQXQ",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Tucosifo",
+          "link": "https://www.youtube.com/watch?v=bI0zGtQVFak",
+          "percent": 100
+      },
+      {
+          "user": "Skellity",
+          "link": "https://www.youtube.com/watch?v=idycZBxiLc4",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=ybWgvBEf2SE",
+          "percent": 100
+      }
+    ]
+}
