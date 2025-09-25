@@ -1,0 +1,24 @@
+{
+    "id": 3283,
+    "name": "Voidscapes DX",
+    "description": "Akin to Shardscapes from main GD, this is a monochromatic, updated version of Sightnado's mini cube-only remake, Nullscapes.",
+    "gdleveldescription": "In the vastness of the void, you are comparatively nothing.",
+    "author": "Sightnado",
+    "creators": ["Sightnado"],
+    "verifier": "Sightnado",
+    "verification": "https://youtu.be/j8FenEpM4wA",
+    "showcase": "https://youtu.be/j8FenEpM4wA",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "zudd",
+          "link": "https://www.youtube.com/watch?v=41dF-gvCL9k",
+          "percent": 100
+      },
+      {
+          "user": "Raezori",
+          "link": "https://www.youtube.com/watch?v=S9xm5EiUCU4",
+          "percent": 100
+      }
+    ]
+}
