@@ -10,6 +10,10 @@
     "showcase": "https://youtu.be/h0vp4wCiAv8",
     "percentToQualify": 73,
     "records": [
-
+	  {
+          "user": "seregiusz",
+          "link": "https://youtu.be/-xEd2X7FmQE",
+          "percent": 100
+      }
     ]
 }
