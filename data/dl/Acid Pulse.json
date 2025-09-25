@@ -1,0 +1,29 @@
+{
+    "id": 3029,
+    "name": "Acid Pulse",
+    "description": "Acidic Nine Circles level, where the NC effect bleeds into its nerve control ending.",
+    "gdleveldescription": "Randomly found this sound again and decided to use it for this green NC",
+    "author": "Gogi",
+    "creators": ["Gogi"],
+    "verifier": "Gogi",
+    "verification": "https://www.youtube.com/watch?v=-WSq_w1D3KA",
+    "showcase": "https://www.youtube.com/watch?v=-WSq_w1D3KA",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/hVkwyMfY5G8",
+          "percent": 100
+      },
+      {
+          "user": "FatglueRuslan",
+          "link": "https://www.youtube.com/watch?v=Di_UUfLdLoI",
+          "percent": 100
+      },
+      {
+          "user": "finn",
+          "link": "https://youtu.be/kkkvPpe3wnE?si=TtNzkzBsah6I7VBl",
+          "percent": 100
+      }
+    ]
+}
