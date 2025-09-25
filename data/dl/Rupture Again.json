@@ -1,0 +1,19 @@
+{
+    "id": 3305,
+    "name": "Rupture Again",
+    "description": "A sequel to the iconic main GD 1.9 level, Rupture, complete with claustrophobic ships.",
+    "gdleveldescription": "749 attempts, my 1.9 magnum opus. Rupture remake! Enjoy!",
+    "author": "Raezori",
+    "creators": ["Raezori"],
+    "verifier": "Raezori",
+    "verification": "https://youtu.be/Fer6GhLRzOg",
+    "showcase": "https://youtu.be/Fer6GhLRzOg",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Kacek",
+          "link": "https://youtu.be/tZJMuMWM1yw",
+          "percent": 100
+      }
+    ]
+}
