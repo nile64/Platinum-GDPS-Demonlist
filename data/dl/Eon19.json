@@ -4,7 +4,7 @@
     "description": "1.9 remake of 55 minute long level Eon by Renn241, however not even close to being the same length. Ending is also a major chokepoint.",
     "gdleveldescription": "Eon but 1.9",
     "author": "ErrorPixel",
-    "creators": [],
+    "creators": ["ErrorPixel"],
     "verifier": "IAVVN",
     "verification": "https://www.youtube.com/watch?v=1eXs8-r1EhI",
     "showcase": "https://www.youtube.com/watch?v=1eXs8-r1EhI",
@@ -15,29 +15,34 @@
           "link": "https://www.youtube.com/watch?v=mXosK3xLCQU",
           "percent": 100
       },
-   {
+      {
           "user": "Kyy",
           "link": "https://www.youtube.com/watch?v=LVAGxk-KmaU",
           "percent": 100
       },
-    {
+      {
           "user": "Raezori",
           "link": "https://www.youtube.com/watch?v=SFwwMAG0Fp4",
           "percent": 100
       },
-    {
+      {
           "user": "ZorpikGMD",
           "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
           "percent": 100
       },
-    {
+      {
           "user": "Memesbro",
           "link": "https://youtu.be/XpobbutFYCc%20YouTube",
           "percent": 100
       },
-    {
+      {
           "user": "FatglueRuslan",
           "link": "https://www.youtube.com/watch?v=QmMkPOsYjr4",
+          "percent": 100
+      },
+      {
+          "user": "finn",
+          "link": "https://youtu.be/kx_ZvkU6WaQ",
           "percent": 100
       }
     ]
