@@ -10,5 +10,10 @@
     "showcase": "https://youtu.be/dt5ACP-tOpo",
     "percentToQualify": 80,
     "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/ybWgvBEf2SE",
+          "percent": 100
+      }        
     ]
 }
