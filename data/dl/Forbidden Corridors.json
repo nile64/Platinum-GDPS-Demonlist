@@ -15,14 +15,19 @@
           "link": "https://www.youtube.com/watch?v=Cxh4hcj-OI4",
           "percent": 100
       },
-    {
+      {
           "user": "Raezori",
           "link": "https://www.youtube.com/watch?v=LrSu5zAGtkU",
           "percent": 100
       },
-    {
+      {
           "user": "ZorpikGMD",
           "link": "https://www.youtube.com/watch?v=NsqgCojDOiY",
+          "percent": 100
+      },
+      {
+          "user": "finn",
+          "link": "https://www.youtube.com/live/8z-WkjEgUuM",
           "percent": 100
       }
     ]
