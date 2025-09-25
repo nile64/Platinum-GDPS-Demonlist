@@ -1,0 +1,19 @@
+{
+    "id": 3168,
+    "name": "Skrillex Circles",
+    "description": "CALL 911 NOW!",
+    "gdleveldescription": "Easy",
+    "author": "brnt7",
+    "creators": ["brnt7"],
+    "verifier": "brnt7",
+    "verification": "https://youtu.be/krzFU3efwaQ",
+    "showcase": "https://youtu.be/krzFU3efwaQ",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Sightnado",
+          "link": "https://youtu.be/EkG5BZD7FOY",
+          "percent": 100
+      }
+    ]
+}
