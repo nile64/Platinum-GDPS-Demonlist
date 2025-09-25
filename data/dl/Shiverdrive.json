@@ -15,14 +15,19 @@
           "link": "https://youtu.be/SngFoutl1pI",
           "percent": 100
       },
-    {
+      {
           "user": "ToxicHG",
-          "link": "https://youtu.be/1otiZ78joZ0?si=YTHtIyS33nlJIJK6&t=1042",
+          "link": "https://youtu.be/1otiZ78joZ0&t=1042",
           "percent": 100
       },
-   {
+      {
           "user": "wearensfw",
           "link": "https://youtu.be/OXCA2okuScM",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/ybWgvBEf2SE",
           "percent": 100
       }
     ]
