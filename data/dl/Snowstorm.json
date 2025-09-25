@@ -1,0 +1,19 @@
+{
+    "id": 3390,
+    "name": "Snowstorm",
+    "description": "A wintry pristine hellscape with claustrophobic gaps across every gamemode.",
+    "gdleveldescription": "GP and Deco by Kacekdash, verified by seregiusz",
+    "author": "Kacek",
+    "creators": ["Kacek"],
+    "verifier": "seregiusz",
+    "verification": "https://www.youtube.com/watch?v=i8xFwm0tTgs",
+    "showcase": "https://www.youtube.com/watch?v=i8xFwm0tTgs",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Decin",
+          "link": "https://www.youtube.com/watch?v=DFfKxJe5ris",
+          "percent": 100
+      }
+    ]
+}
