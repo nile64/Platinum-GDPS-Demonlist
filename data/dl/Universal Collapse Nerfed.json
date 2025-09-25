@@ -1,0 +1,19 @@
+{
+    "id": 3021,
+    "name": "Universal Collapse Nerfed",
+    "description": "Perhaps an awkward title for a rated level, this is an intense and colourful dual-heavy level, which will see you navigate duals for every gamemode including multiple wave segments.",
+    "gdleveldescription": "Was made in 1 day",
+    "author": "ProPlayer",
+    "creators": ["ProPlayer"],
+    "verifier": "ProPlayer",
+    "verification": "https://cdn.discordapp.com/attachments/1394270821249318953/1394398595561689232/Verification_Video.mp4",
+    "showcase": "https://youtu.be/cXC7qJWkm7w",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/cXC7qJWkm7w",
+          "percent": 100
+      }
+    ]
+}
