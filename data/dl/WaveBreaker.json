@@ -10,6 +10,10 @@
     "showcase": "https://youtu.be/9THz6a5yFTI",
     "percentToQualify": 80,
     "records": [
-
+      {
+          "user": "FatglueRuslan",
+          "link": "https://www.youtube.com/watch?v=SBH5bhTTq8U",
+          "percent": 100
+      }
     ]
 }
