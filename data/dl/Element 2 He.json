@@ -1,0 +1,19 @@
+{
+    "id": 3004,
+    "name": "Element 2 He",
+    "description": "A 1.6 styled insane demon with many defining gameplay quirks throughout.",
+    "gdleveldescription": "",
+    "author": "crimson",
+    "creators": ["crimson"],
+    "verifier": "finn",
+    "verification": "https://www.youtube.com/watch?v=Bootqg041ME&t=122s",
+    "showcase": "https://www.youtube.com/watch?v=Bootqg041ME&t=122s",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/VeeLtCIvhgM",
+          "percent": 100
+      }
+    ]
+}
