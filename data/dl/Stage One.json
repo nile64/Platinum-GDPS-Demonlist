@@ -69,6 +69,11 @@
           "user": "cornbread",
           "link": "https://www.youtube.com/watch?v=kPk2WsaZGts",
           "percent": 100
+      },
+	  {
+          "user": "finn",
+          "link": "https://youtu.be/5pP1wFoM_x4",
+          "percent": 100
       }
     ]
 }
