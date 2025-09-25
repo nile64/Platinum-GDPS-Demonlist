@@ -1,0 +1,29 @@
+{
+    "id": 3060,
+    "name": "DISASTER",
+    "description": "A ruby red demon that feels like a missing piece of the ATSOL trilogy.",
+    "gdleveldescription": "Verified by Raezori.",
+    "author": "AbeUrpur",
+    "creators": ["AbeUrpur"],
+    "verifier": "Raezori",
+    "verification": "https://www.youtube.com/watch?v=vIVOxAwzugs",
+    "showcase": "https://www.youtube.com/watch?v=As3TFoWI0xY",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Kacek",
+          "link": "https://youtu.be/bQNCV_q2BSs",
+          "percent": 100
+      },
+      {
+          "user": "finn",
+          "link": "https://www.youtube.com/watch?v=R0E7xGylY88",
+          "percent": 100
+      },
+      {
+          "user": "Decin",
+          "link": "https://www.youtube.com/watch?v=Ld-wanubZzY",
+          "percent": 100
+      }
+    ]
+}
