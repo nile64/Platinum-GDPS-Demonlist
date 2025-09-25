@@ -1,0 +1,19 @@
+{
+    "id": 3186,
+    "name": "Ripped",
+    "description": "A dim, pale blue Nine Circles level.",
+    "gdleveldescription": "Inspired from the NC level by Mazemaster00 with this same song",
+    "author": "cornbreadude",
+    "creators": ["cornbreadude"],
+    "verifier": "cornbreadude",
+    "verification": "https://www.youtube.com/watch?v=oM_wQcDxGuQ",
+    "showcase": "https://www.youtube.com/watch?v=oM_wQcDxGuQ",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "d6cd",
+          "link": "https://www.youtube.com/watch?v=ceqyKFLTfbo",
+          "percent": 100
+      }
+    ]
+}
