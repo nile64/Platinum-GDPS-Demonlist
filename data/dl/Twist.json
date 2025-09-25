@@ -1,0 +1,19 @@
+{
+    "id": 3139,
+    "name": "Twist",
+    "description": "A high speed level with a metal song and 1.0 decoration.",
+    "gdleveldescription": "Verse - Scatting, Chorus - Twist Twist Twist Twist,  Verse - Scatting, Chorus - Twist Twist Twist.",
+    "author": "Mysterion16",
+    "creators": ["Mysterion16"],
+    "verifier": "Mysterion16",
+    "verification": "https://www.youtube.com/watch?v=j4NA7PYRPNo",
+    "showcase": "https://www.youtube.com/watch?v=j4NA7PYRPNo",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "ZorpikGMD",
+          "link": "https://youtu.be/ybWgvBEf2SE",
+          "percent": 100
+      }
+    ]
+}
