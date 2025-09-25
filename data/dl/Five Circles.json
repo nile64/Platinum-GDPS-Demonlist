@@ -9,5 +9,11 @@
     "verification": "https://youtu.be/ySCNMMPBDmA",
     "showcase": "https://youtu.be/ySCNMMPBDmA",
     "percentToQualify": 68,
-    "records": []
+    "records": [
+      {
+          "user": "FatglueRuslan",
+          "link": "https://www.youtube.com/watch?v=SAR687u8LY4",
+          "percent": 100
+      }
+    ]
 }
