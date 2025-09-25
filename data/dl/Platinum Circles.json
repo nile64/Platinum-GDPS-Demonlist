@@ -9,5 +9,11 @@
     "verification": "https://youtu.be/l6WWerYtXks",
     "showcase": "https://youtu.be/l6WWerYtXks",
     "percentToQualify": 58,
-    "records": []
+    "records": [
+      {
+          "user": "Kacek",
+          "link": "https://youtu.be/o0uLd7V08EM",
+          "percent": 100
+      }
+    ]
 }
