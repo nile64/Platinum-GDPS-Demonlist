@@ -15,14 +15,19 @@
           "link": "https://www.youtube.com/watch?v=ZEx9TZN800U",
           "percent": 100
       },
-    {
+      {
           "user": "ZorpikGMD",
           "link": "https://www.youtube.com/watch?v=5_YvrxFALHA",
           "percent": 100
       },
-    {
+      {
           "user": "VittoRanetto",
           "link": "https://streamable.com/f6wtos",
+          "percent": 100
+      },
+      {
+          "user": "Kacek",
+          "link": "https://youtu.be/-QI_x8jrC74",
           "percent": 100
       }
     ]
