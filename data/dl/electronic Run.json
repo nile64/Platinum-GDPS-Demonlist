@@ -7,9 +7,18 @@
     "creators": ["A4r0n"],
     "verifier": "Raezori",
     "verification": "https://youtu.be/pPOtafDFHu8",
-    "showcase": "https://www.youtube.com/watch?v=Y-6WS5oYOQQ",
-    "percentToQualify": 73,
+    "showcase": "https://youtu.be/pPOtafDFHu8",
+    "percentToQualify": 68,
     "records": [
-
+      {
+          "user": "d6cd",
+          "link": "https://youtu.be/fsAOLblUT5w",
+          "percent": 100
+      },
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=ybWgvBEf2SE",
+          "percent": 100
+      }
     ]
 }
