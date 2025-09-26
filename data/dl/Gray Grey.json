@@ -14,15 +14,20 @@
           "user": "Raezori",
           "link": "https://www.youtube.com/watch?v=0LLCIHindZk",
           "percent": 100
-     },
-    {
+      },
+      {
           "user": "Tabbi",
           "link": "https://www.youtube.com/watch?v=Axcup1pJ8ZA",
           "percent": 100
       },
-    {
+      {
           "user": "IAVVN",
           "link": "https://www.youtube.com/watch?v=DBKEcBYtuW8",
+          "percent": 100
+      },
+      {
+          "user": "Sightnado",
+          "link": "https://youtu.be/R8DuF-HRBhw",
           "percent": 100
       }
     ]
