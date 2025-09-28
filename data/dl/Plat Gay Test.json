@@ -1,0 +1,24 @@
+{
+    "id": 3500,
+    "name": "Plat Gay Test",
+    "description": "A whimsical level with lots of colourful references. Easy predrop with a brutal wave afterwards, and a nerve control ship to cap it off.",
+    "gdleveldescription": "The big PGT!! Made in 1 day!! Dedicated to Zudd!! Test is very accurate. If it says your gay. You are GAY!!! Sequel to Happy Dashing. Play at your own risk. Made by Skellity, Zorpik, and Kek",
+    "author": "ZorpikGMD",
+    "creators": ["Skellity", "ZorpikGMD", "kek"],
+    "verifier": "ZorpikGMD",
+    "verification": "https://youtu.be/Pq5NxafvjhA",
+    "showcase": "https://youtu.be/Pq5NxafvjhA",
+    "percentToQualify": 75,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/NmlqrJQ9Ohw",
+          "percent": 100
+      },
+      {
+          "user": "Kacek",
+          "link": "https://youtu.be/8MzHPX0fdcs",
+          "percent": 100
+      }
+    ]
+}
