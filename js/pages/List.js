@@ -143,7 +143,7 @@ export default {
                     </template>
                     <h2> List Rules </h2>
                     <p><i>read this now</i></p>
-                    <h3> Rules </h3>
+                    <h3> Demonlist Rules </h3>
                     <p>Levels must be verified on NO LOWER than 60 fps, and NO HIGHER than 360 fps. Your FPS must be shown.</p>
                     <p>Levels must be possible on 60 fps.</p>
                     <p>Audible clicks are <b><i>required.</i></b> It does not matter if you have a CPS counter.</p>
@@ -153,6 +153,16 @@ export default {
                     <p>LDM's are allowed as long as they don't make the level any easier to play or see.</p>
                     <p>Bug fixes are allowed as long as they don't nerf the level.</p>
                     <p>If on mobile, show all your Polzhax settings at the end of the video.</p>
+                    <h3> Challenge List Rules </h3>
+                    <p>Levels must be verified on NO LOWER than 60 FPS, and NO HIGHER than 360 FPS. Your FPS must be shown.</p>
+                    <p>Challenges that force drastic changes depending on the player's FPS; including different routes; are not eligible for the list!</p>
+                    <p>Recordings are REQUIRED for all challenges! PC recordings must include audible clicks and the last death attempt before completion!</p>
+                    <p>If you are on mobile and you can not record audible clicks, you must include visual taps and the last death attempt before completion!</p>
+                    <p>Challenges that fall out of the top 100 will be moved into the Legacy List.</p>
+                    <p>Challenges easier than the lowest challenge are not eligible for the list!</p>
+                    <p>Challenges that require more than 16 CPS spam are not eligible for the list!</p>
+                    <p>Rated levels are not eligible for the list!</p>
+                    <p>Levels that are 30 seconds or longer are not eligible for the list! Challenges must be 29 seconds or shorter.</p>
                     <h3> Info </h3>
                     <p>Levels that fall out of the top 100 will be moves into the Legacy List.</p>
                     <p>Levels that are deemed not list-worthy will not be placed at all.</p>
