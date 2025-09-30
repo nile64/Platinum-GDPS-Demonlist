@@ -1,0 +1,19 @@
+{
+    "id": 3378,
+    "name": "Quintessence",
+    "description": "A flashy, brutal two player demon, at times availing of a classic 1.9 style.",
+    "gdleveldescription": "the first demon starting with q",
+    "author": "flyingduck91",
+    "creators": ["flyingduck91"],
+    "verifier": "flyingduck91",
+    "verification": "https://youtu.be/K-qswOC0Bxw",
+    "showcase": "https://youtu.be/K-qswOC0Bxw",
+    "percentToQualify": 68,
+    "records": [
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/8pNtgDIrtlY",
+          "percent": 100
+      }
+    ]
+}
