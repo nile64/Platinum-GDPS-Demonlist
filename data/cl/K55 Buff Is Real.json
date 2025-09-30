@@ -7,12 +7,17 @@
     "creators": ["Memesbro", "Yuptune"],
     "verifier": "Yuptune",
     "verification": "https://discord.com/channels/1254752525572374629/1413320753193160824/1422368269180076042",
-    "showcase": "https://discord.com/channels/1254752525572374629/1413320753193160824/1422368269180076042", 
+    "showcase": "https://files.catbox.moe/3wstpz.mov", 
     "percentToQualify": 100,
     "records": [
       {
           "user": "Tucosifo",
           "link": "https://discord.com/channels/1254752525572374629/1413320753193160824/1422393342200909916",
+          "percent": 100
+      },
+      {
+          "user": "Skellity",
+          "link": "https://files.catbox.moe/3wstpz.mov",
           "percent": 100
       }
     ]
