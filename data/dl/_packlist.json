@@ -73,5 +73,25 @@
         "name": "Nine Circles Pack I",
         "levels": [ "MASSACRE", "Amity", "Error Circles"],
         "colour": "linear-gradient(to right, #FF0004, #FF8800, #FFE900, #9BD302)"
+    },
+    {
+        "name": "Nine Circles Pack II",
+        "levels": [ "NPI Incarnate", "Casino Circles", "Heat Wave"],
+        "colour": "linear-gradient(to right, #FA98C8, #F5E8A3)"
+    },
+    {
+        "name": "Gray Circles Pack",
+        "levels": [ "Job Application Circles Rebirth", "Platinum Circles", "Skrillex Circles"],
+        "colour": "linear-gradient(to right, #777777, #333333)"
+    },
+    {
+        "name": "Element Pack",
+        "levels": [ "Element 2 He", "Element 47 Ag", "Element 117 Ts"],
+        "colour": "linear-gradient(to right, #C2EFEF, #BCBCBC)"
+    },
+    {
+        "name": "GAY Pack",
+        "levels": [ "Gay People Tomorrow", "Gay People Incoming", "Plat Gay Test"],
+        "colour": "linear-gradient(to right, #E50000, #FF8D00, #FFEE00, #028121, #004CFF, #770088)"
     }
 ]
