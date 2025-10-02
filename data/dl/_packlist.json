@@ -5,6 +5,11 @@
         "colour": "linear-gradient(to right, #f4d002, #f49702)"
     },
     {
+        "name": "Former Top 1 Pack II",
+        "levels": ["Cerulean Chill", "Gray grey", "Gay People Tomorrow"],
+        "colour": "linear-gradient(to right, #F49302, #F46102)"
+    },
+    {
         "name": "Hellish Pack",
         "levels": ["MASSACRE", "The Purgatory", "The Hell Tunnel"],
         "colour": "linear-gradient(to right, #f24741, #f7140c)"
@@ -47,7 +52,7 @@
     {
         "name": "Pristine Pack I",
         "levels": [ "Death Travel", "DONT RATE", "NPI Incarnate"],
-        "colour": "linear-gradient(to right, #FFFFFF, #E5FFFF)"
+        "colour": "linear-gradient(to right, #E4F9FF, #CCF9FF)"
     },
     {
         "name": "Pristine Pack II",
@@ -58,5 +63,15 @@
         "name": "Pristine Pack III",
         "levels": [ "tempest", "Bausha V4", "Snowstorm"],
         "colour": "linear-gradient(to right, #AEDAEA, #678E9A)"
+    },
+    {
+        "name": "Tiny Pack",
+        "levels": [ "Enricozome", "Star Synthesis", "WOOOOOOSH"],
+        "colour": "linear-gradient(to right, #FF2279, #A61841)"
+    },
+    {
+        "name": "Nine Circles Pack I",
+        "levels": [ "MASSACRE", "Amity", "Error Circles"],
+        "colour": "linear-gradient(to right, #FF0004, #FF8800, #FFE900, #9BD302)"
     }
 ]
