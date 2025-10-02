@@ -87,7 +87,7 @@
     {
         "name": "Element Pack",
         "levels": [ "Element 2 He", "Element 47 Ag", "Element 117 Ts"],
-        "colour": "linear-gradient(to right, #C2EFEF, #BCBCBC)"
+        "colour": "linear-gradient(to right, #777777, #BCBCBC)"
     },
     {
         "name": "GAY Pack",
