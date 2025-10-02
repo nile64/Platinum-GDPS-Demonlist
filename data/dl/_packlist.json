@@ -46,7 +46,17 @@
     },
     {
         "name": "Pristine Pack I",
-        "levels": ["DONT RATE", "NPI Incarnate", "Death Travel"],
+        "levels": [ "Death Travel", "DONT RATE", "NPI Incarnate"],
+        "colour": "linear-gradient(to right, #FFFFFF, #E5FFFF)"
+    },
+    {
+        "name": "Pristine Pack II",
+        "levels": [ "Theory of Fright", "Rupture Again", "COLD MAP"],
         "colour": "linear-gradient(to right, #CCF9FF, #AAD5E1)"
+    },
+    {
+        "name": "Pristine Pack III",
+        "levels": [ "tempest", "Bausha V4", "Snowstorm"],
+        "colour": "linear-gradient(to right, #AEDAEA, #678E9A)"
     }
 ]
