@@ -27,7 +27,12 @@
       },
       {
           "user": "finn",
-          "link": "https://youtu.be/QjY36Rn7ISY?si=dMLz4SW6rFIbAZK6",
+          "link": "https://youtu.be/QjY36Rn7ISY",
+          "percent": 100
+      },
+      {
+          "user": "DiamondProto",
+          "link": "https://youtu.be/uznlgXmz9xg",
           "percent": 100
       }
     ]
