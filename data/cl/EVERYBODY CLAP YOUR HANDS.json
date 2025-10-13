@@ -7,9 +7,13 @@
     "creators": ["2rus"],
     "verifier": "2rus",
     "verification": "https://discord.com/channels/1254752525572374629/1413320753193160824/1426587903361941574",
-    "showcase": "https://discord.com/channels/1254752525572374629/1413320753193160824/1426587903361941574", 
+    "showcase": "https://youtu.be/oCaMw9QBAJk", 
     "percentToQualify": 100,
     "records": [
-
+      {
+          "user": "Memesbro",
+          "link": "https://youtu.be/oCaMw9QBAJk",
+          "percent": 100
+      }
     ]
 }
