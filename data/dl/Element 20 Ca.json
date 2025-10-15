@@ -1,0 +1,19 @@
+{
+    "id": 3581,
+    "name": "Element 20 Ca",
+    "description": "A 1.0 styled, timings based, insane demon.",
+    "gdleveldescription": "Sequel to Element 2 He! Thought i",
+    "author": "Crimson",
+    "creators": ["Crimson"],
+    "verifier": "kas.ia",
+    "verification": "https://youtu.be/HODD5Vjf7zo",
+    "showcase": "https://youtu.be/HODD5Vjf7zo",
+    "percentToQualify": 65,
+    "records": [
+      {
+          "user": "record holder",
+          "link": "https://www.youtube.com/watch?v=vIVOxAwzugs",
+          "percent": 100
+      }
+    ]
+}
