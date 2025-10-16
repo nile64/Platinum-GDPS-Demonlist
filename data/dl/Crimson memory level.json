@@ -10,7 +10,11 @@
     "showcase": "https://youtu.be/F3UJcfa6hmk",
     "percentToQualify": 68,
     "records": [
-
+      {
+          "user": "Kacek",
+          "link": "https://youtu.be/eYXBEYHvn-I",
+          "percent": 100
+      }
     ]
 }
 
