@@ -7,9 +7,13 @@
     "creators": ["GDNico"],
     "verifier": "GDNico",
     "verification": "https://discord.com/channels/1254752525572374629/1413320753193160824/1424286390023360573",
-    "showcase": "https://discord.com/channels/1254752525572374629/1413320753193160824/1424286390023360573", 
+    "showcase": "https://medal.tv/games/requested/clips/ljINE1ddDDRb4-AHU", 
     "percentToQualify": 100,
     "records": [
-
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/ljINE1ddDDRb4-AHU",
+          "percent": 100
+      }
     ]
 }
