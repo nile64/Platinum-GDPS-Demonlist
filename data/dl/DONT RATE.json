@@ -10,6 +10,10 @@
     "showcase": "https://youtu.be/nfBSnzEuXhw",
     "percentToQualify": 68,
     "records": [
-
+      {
+          "user": "DiamondProto",
+          "link": "https://youtu.be/vgcOb0S6pL4",
+          "percent": 100
+      }
     ]
 }
