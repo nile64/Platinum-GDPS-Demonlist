@@ -10,6 +10,10 @@
     "showcase": "https://www.youtube.com/watch?v=5pwdopy_lw8", 
     "percentToQualify": 100,
     "records": [
-
+      {
+          "user": "mmo",
+          "link": "https://medal.tv/games/requested/clips/lkhmImS0Xo5R0sIbY",
+          "percent": 100
+      }
     ]
 }
