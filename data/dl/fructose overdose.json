@@ -10,6 +10,10 @@
     "showcase": "https://www.youtube.com/watch?v=YvhVxpRkcE4",
     "percentToQualify": 68,
     "records": [
-
+      {
+          "user": "ToxicHG",
+          "link": "https://youtu.be/eJF8tdnjKDE",
+          "percent": 100
+      }
     ]
 }
