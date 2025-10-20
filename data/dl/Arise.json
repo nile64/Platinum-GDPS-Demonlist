@@ -10,6 +10,10 @@
     "showcase": "https://www.youtube.com/watch?v=Xr9HulcDCPc",
     "percentToQualify": 68,
     "records": [
-
+      {
+          "user": "Raezori",
+          "link": "https://youtu.be/WcFBf1YJ6jA",
+          "percent": 100
+      }
     ]
 }
