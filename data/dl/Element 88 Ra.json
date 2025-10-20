@@ -10,6 +10,10 @@
     "showcase": "https://www.youtube.com/watch?v=ca0ykKji-lI",
     "percentToQualify": 67,
     "records": [
-
+      {
+          "user": "ZorpikGMD",
+          "link": "https://www.youtube.com/watch?v=pRZi0EfZZX4",
+          "percent": 100
+      }
     ]
 }
