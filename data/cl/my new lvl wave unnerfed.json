@@ -10,6 +10,10 @@
     "showcase": "https://www.youtube.com/watch?v=qS-22xp5yKk", 
     "percentToQualify": 100,
     "records": [
-
+      {
+          "user": "JsTocii",
+          "link": "https://youtu.be/rq8AFux3CEg&t=325",
+          "percent": 100
+      }
     ]
 }
