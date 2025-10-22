@@ -1,7 +1,7 @@
 {
     "id": 2235,
     "name": "Ultra Wave Chall3nge",
-    "description": "A precise superbuff of a classic 1.9 wave challenge.",
+    "description": "A precise superbuff of the classic 1.9 wave challenge Ultra Wave Chall 2 by RedUniverse.",
     "gdleveldescription": "",
     "author": "ToxicHG",
     "creators": ["ToxicHG"],
@@ -18,6 +18,11 @@
       {
           "user": "mmo",
           "link": "https://medal.tv/games/requested/clips/ljPSf7ao18QrHvzIR",
+          "percent": 100
+      },
+      {
+          "user": "seregiusz",
+          "link": "https://youtu.be/U3YciWZM7LQ&t=876",
           "percent": 100
       }
     ]
